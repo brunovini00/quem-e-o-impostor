@@ -240,7 +240,20 @@ export const DEFAULT_THEMES: Theme[] = [
 ];
 
 export function getAllThemes(customThemes: Theme[] = []): Theme[] {
-  return [...DEFAULT_THEMES, ...customThemes.map(t => ({ ...t, isCustom: true }))];
+  // Custom themes with same ID override default themes
+  const customIds = new Set(customThemes.map(t => t.id));
+  const defaultsNotOverridden = DEFAULT_THEMES.filter(t => !customIds.has(t.id));
+  return [...defaultsNotOverridden, ...customThemes.map(t => ({ ...t, isCustom: true }))];
+}
+
+// Check if a theme ID is a default theme
+export function isDefaultThemeId(themeId: string): boolean {
+  return DEFAULT_THEMES.some(t => t.id === themeId);
+}
+
+// Get the original default theme by ID
+export function getDefaultTheme(themeId: string): Theme | undefined {
+  return DEFAULT_THEMES.find(t => t.id === themeId);
 }
 
 export function getWordsByFilter(
