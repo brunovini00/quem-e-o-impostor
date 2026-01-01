@@ -1,72 +1,75 @@
+import { useState } from 'react';
 import { useGame } from '@/contexts/GameContext';
-import { Button } from '@/components/ui/button';
-import { Users, BookOpen, HelpCircle, Settings } from 'lucide-react';
+import HomeScreen from '@/components/screens/HomeScreen';
+import SetupScreen from '@/components/screens/SetupScreen';
+import DistributionScreen from '@/components/screens/DistributionScreen';
+import RoundScreen from '@/components/screens/RoundScreen';
+import VotingScreen from '@/components/screens/VotingScreen';
+import ResultScreen from '@/components/screens/ResultScreen';
+import GuessScreen from '@/components/screens/GuessScreen';
+import ThemesScreen from '@/components/screens/ThemesScreen';
+import HowToPlayScreen from '@/components/screens/HowToPlayScreen';
+import SettingsScreen from '@/components/screens/SettingsScreen';
+
+export type Screen = 'home' | 'setup' | 'distribution' | 'round' | 'voting' | 'result' | 'guess' | 'themes' | 'howtoplay' | 'settings';
 
 const Index = () => {
+  const [currentScreen, setCurrentScreen] = useState<Screen>('home');
   const { state } = useGame();
 
+  // Sync game phase with screen
+  const getActiveScreen = (): Screen => {
+    if (state.isGameActive) {
+      switch (state.gamePhase) {
+        case 'distribution':
+          return 'distribution';
+        case 'round':
+          return 'round';
+        case 'voting':
+          return 'voting';
+        case 'result':
+          return 'result';
+        case 'guess':
+          return 'guess';
+        default:
+          return currentScreen;
+      }
+    }
+    return currentScreen;
+  };
+
+  const activeScreen = getActiveScreen();
+
+  const renderScreen = () => {
+    switch (activeScreen) {
+      case 'home':
+        return <HomeScreen onNavigate={setCurrentScreen} />;
+      case 'setup':
+        return <SetupScreen onNavigate={setCurrentScreen} />;
+      case 'distribution':
+        return <DistributionScreen onNavigate={setCurrentScreen} />;
+      case 'round':
+        return <RoundScreen onNavigate={setCurrentScreen} />;
+      case 'voting':
+        return <VotingScreen onNavigate={setCurrentScreen} />;
+      case 'result':
+        return <ResultScreen onNavigate={setCurrentScreen} />;
+      case 'guess':
+        return <GuessScreen onNavigate={setCurrentScreen} />;
+      case 'themes':
+        return <ThemesScreen onNavigate={setCurrentScreen} />;
+      case 'howtoplay':
+        return <HowToPlayScreen onNavigate={setCurrentScreen} />;
+      case 'settings':
+        return <SettingsScreen onNavigate={setCurrentScreen} />;
+      default:
+        return <HomeScreen onNavigate={setCurrentScreen} />;
+    }
+  };
+
   return (
-    <div className="min-h-screen bg-background flex flex-col items-center justify-center p-6">
-      {/* Logo */}
-      <div className="text-center mb-12 animate-fade-in">
-        <div className="text-6xl mb-4">🎭</div>
-        <h1 className="text-4xl font-bold text-foreground mb-2 text-glow">
-          Quem é o Impostor?
-        </h1>
-        <p className="text-muted-foreground text-lg">
-          Encontre o impostor entre seus amigos!
-        </p>
-      </div>
-
-      {/* Menu */}
-      <div className="w-full max-w-sm space-y-4 animate-slide-up">
-        <Button
-          className="w-full h-16 text-xl gradient-primary shadow-glow hover:scale-105 transition-transform"
-          size="lg"
-        >
-          <Users className="mr-3 h-6 w-6" />
-          Jogar
-        </Button>
-
-        <Button
-          variant="secondary"
-          className="w-full h-14 text-lg"
-          size="lg"
-        >
-          <BookOpen className="mr-3 h-5 w-5" />
-          Temas e Palavras
-        </Button>
-
-        <Button
-          variant="secondary"
-          className="w-full h-14 text-lg"
-          size="lg"
-        >
-          <HelpCircle className="mr-3 h-5 w-5" />
-          Como Jogar
-        </Button>
-
-        <Button
-          variant="secondary"
-          className="w-full h-14 text-lg"
-          size="lg"
-        >
-          <Settings className="mr-3 h-5 w-5" />
-          Configurações
-        </Button>
-      </div>
-
-      {/* Player count indicator */}
-      {state.config.players.length > 0 && (
-        <div className="mt-8 text-muted-foreground text-sm animate-fade-in">
-          {state.config.players.length} jogador(es) configurado(s)
-        </div>
-      )}
-
-      {/* Footer */}
-      <div className="absolute bottom-6 text-center text-muted-foreground text-xs">
-        <p>Passe o celular de mão em mão</p>
-      </div>
+    <div className="min-h-screen bg-background">
+      {renderScreen()}
     </div>
   );
 };
