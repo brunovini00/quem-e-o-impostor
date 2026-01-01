@@ -24,6 +24,8 @@ interface GameState {
   timerRunning: boolean;
   timerSeconds: number;
   votedPlayerIndex: number | null;
+  votes: Record<string, number>; // playerId -> votedPlayerIndex
+  currentVoterIndex: number;
   impostorWon: boolean | null;
 }
 
@@ -42,6 +44,7 @@ type GameAction =
   | { type: 'SET_TIMER_DURATION'; payload: number }
   | { type: 'SET_SOUND_ENABLED'; payload: boolean }
   | { type: 'SET_VIBRATION_ENABLED'; payload: boolean }
+  | { type: 'SET_VOTING_ENABLED'; payload: boolean }
   | { type: 'ADD_CUSTOM_THEME'; payload: Theme }
   | { type: 'UPDATE_CUSTOM_THEME'; payload: Theme }
   | { type: 'DELETE_CUSTOM_THEME'; payload: string }
@@ -53,7 +56,10 @@ type GameAction =
   | { type: 'PAUSE_TIMER' }
   | { type: 'TICK_TIMER' }
   | { type: 'GO_TO_VOTING' }
-  | { type: 'VOTE'; payload: number }
+  | { type: 'SKIP_VOTING' }
+  | { type: 'CAST_VOTE'; payload: { voterId: string; votedIndex: number } }
+  | { type: 'NEXT_VOTER' }
+  | { type: 'TALLY_VOTES' }
   | { type: 'REVEAL_RESULT' }
   | { type: 'IMPOSTOR_GUESS'; payload: boolean }
   | { type: 'RESET_GAME' }
@@ -70,6 +76,7 @@ const initialState: GameState = {
     timerDuration: 120,
     soundEnabled: true,
     vibrationEnabled: true,
+    votingEnabled: true,
     customThemes: [],
   },
   isGameActive: false,
@@ -81,6 +88,8 @@ const initialState: GameState = {
   timerRunning: false,
   timerSeconds: 0,
   votedPlayerIndex: null,
+  votes: {},
+  currentVoterIndex: 0,
   impostorWon: null,
 };
 
@@ -180,6 +189,12 @@ function gameReducer(state: GameState, action: GameAction): GameState {
         config: { ...state.config, vibrationEnabled: action.payload },
       };
 
+    case 'SET_VOTING_ENABLED':
+      return {
+        ...state,
+        config: { ...state.config, votingEnabled: action.payload },
+      };
+
     case 'ADD_CUSTOM_THEME':
       return {
         ...state,
@@ -230,6 +245,8 @@ function gameReducer(state: GameState, action: GameAction): GameState {
         gamePhase: 'distribution',
         timerSeconds: state.config.timerDuration,
         votedPlayerIndex: null,
+        votes: {},
+        currentVoterIndex: 0,
         impostorWon: null,
       };
 
@@ -253,10 +270,52 @@ function gameReducer(state: GameState, action: GameAction): GameState {
       return { ...state, timerSeconds: Math.max(0, state.timerSeconds - 1) };
 
     case 'GO_TO_VOTING':
-      return { ...state, gamePhase: 'voting', timerRunning: false };
+      return { ...state, gamePhase: 'voting', timerRunning: false, currentVoterIndex: 0, votes: {} };
 
-    case 'VOTE':
-      return { ...state, votedPlayerIndex: action.payload, gamePhase: 'result' };
+    case 'SKIP_VOTING':
+      return { ...state, gamePhase: 'result', timerRunning: false, votedPlayerIndex: null };
+
+    case 'CAST_VOTE':
+      return {
+        ...state,
+        votes: { ...state.votes, [action.payload.voterId]: action.payload.votedIndex },
+      };
+
+    case 'NEXT_VOTER':
+      const nextVoterIndex = state.currentVoterIndex + 1;
+      if (nextVoterIndex >= state.config.players.length) {
+        // All votes cast, tally them
+        const voteCounts: Record<number, number> = {};
+        Object.values(state.votes).forEach((votedIdx) => {
+          voteCounts[votedIdx] = (voteCounts[votedIdx] || 0) + 1;
+        });
+        // Find player with most votes
+        let maxVotes = 0;
+        let mostVotedIndex = 0;
+        Object.entries(voteCounts).forEach(([idx, count]) => {
+          if (count > maxVotes) {
+            maxVotes = count;
+            mostVotedIndex = parseInt(idx);
+          }
+        });
+        return { ...state, votedPlayerIndex: mostVotedIndex, gamePhase: 'result', currentVoterIndex: 0 };
+      }
+      return { ...state, currentVoterIndex: nextVoterIndex };
+
+    case 'TALLY_VOTES':
+      const tallyCounts: Record<number, number> = {};
+      Object.values(state.votes).forEach((votedIdx) => {
+        tallyCounts[votedIdx] = (tallyCounts[votedIdx] || 0) + 1;
+      });
+      let maxTallyVotes = 0;
+      let mostTallyVotedIndex = 0;
+      Object.entries(tallyCounts).forEach(([idx, count]) => {
+        if (count > maxTallyVotes) {
+          maxTallyVotes = count;
+          mostTallyVotedIndex = parseInt(idx);
+        }
+      });
+      return { ...state, votedPlayerIndex: mostTallyVotedIndex, gamePhase: 'result' };
 
     case 'REVEAL_RESULT':
       const votedIsImpostor = state.impostorIndices.includes(state.votedPlayerIndex!);
@@ -280,6 +339,8 @@ function gameReducer(state: GameState, action: GameAction): GameState {
         timerRunning: false,
         timerSeconds: 0,
         votedPlayerIndex: null,
+        votes: {},
+        currentVoterIndex: 0,
         impostorWon: null,
       };
 

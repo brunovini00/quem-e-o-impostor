@@ -33,6 +33,7 @@ export interface GameConfig {
   timerDuration: number; // in seconds
   soundEnabled: boolean;
   vibrationEnabled: boolean;
+  votingEnabled: boolean;
   customThemes: Theme[];
 }
 
@@ -46,6 +47,7 @@ const DEFAULT_CONFIG: GameConfig = {
   timerDuration: 120,
   soundEnabled: true,
   vibrationEnabled: true,
+  votingEnabled: true,
   customThemes: [],
 };
 

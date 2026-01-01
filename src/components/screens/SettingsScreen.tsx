@@ -3,7 +3,7 @@ import { Card } from '@/components/ui/card';
 import { Switch } from '@/components/ui/switch';
 import { useGame } from '@/contexts/GameContext';
 import { resetConfig } from '@/lib/storage';
-import { ArrowLeft, Volume2, Vibrate, RotateCcw } from 'lucide-react';
+import { ArrowLeft, Volume2, Vibrate, RotateCcw, Vote } from 'lucide-react';
 import { Screen } from '@/pages/Index';
 
 interface SettingsScreenProps {
@@ -61,6 +61,24 @@ const SettingsScreen = ({ onNavigate }: SettingsScreenProps) => {
               checked={state.config.vibrationEnabled}
               onCheckedChange={(checked) =>
                 dispatch({ type: 'SET_VIBRATION_ENABLED', payload: checked })
+              }
+            />
+          </div>
+        </Card>
+
+        <Card className="p-4 bg-card">
+          <div className="flex items-center justify-between">
+            <div className="flex items-center gap-3">
+              <Vote className="h-5 w-5 text-primary" />
+              <div>
+                <p className="font-medium">Votação</p>
+                <p className="text-sm text-muted-foreground">Ativar votação no jogo</p>
+              </div>
+            </div>
+            <Switch
+              checked={state.config.votingEnabled}
+              onCheckedChange={(checked) =>
+                dispatch({ type: 'SET_VOTING_ENABLED', payload: checked })
               }
             />
           </div>
