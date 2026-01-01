@@ -104,14 +104,24 @@ const RoundScreen = ({ onNavigate }: RoundScreenProps) => {
           </ul>
         </Card>
 
-        <Button
-          className="w-full h-14 text-lg"
-          variant="secondary"
-          onClick={handleGoToVoting}
-        >
-          <Vote className="mr-2 h-5 w-5" />
-          Ir para Votação
-        </Button>
+        <div className="space-y-3">
+          {state.config.votingEnabled ? (
+            <Button
+              className="w-full h-14 text-lg gradient-primary shadow-glow"
+              onClick={handleGoToVoting}
+            >
+              <Vote className="mr-2 h-5 w-5" />
+              Ir para Votação
+            </Button>
+          ) : (
+            <Button
+              className="w-full h-14 text-lg gradient-primary shadow-glow"
+              onClick={() => dispatch({ type: 'SKIP_VOTING' })}
+            >
+              Ver Resultado
+            </Button>
+          )}
+        </div>
       </div>
     </div>
   );

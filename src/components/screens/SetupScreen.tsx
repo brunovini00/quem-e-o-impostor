@@ -6,7 +6,7 @@ import { useGame } from '@/contexts/GameContext';
 import { useToast } from '@/hooks/use-toast';
 import { playSound } from '@/lib/sounds';
 import { vibrate } from '@/lib/vibration';
-import { ArrowLeft, Plus, Trash2, GripVertical, Play, Users, Skull, Timer, Sparkles } from 'lucide-react';
+import { ArrowLeft, Plus, Trash2, GripVertical, Play, Users, Skull, Timer, Sparkles, Vote } from 'lucide-react';
 import { Screen } from '@/pages/Index';
 import {
   DndContext,
@@ -348,6 +348,35 @@ const SetupScreen = ({ onNavigate }: SetupScreenProps) => {
             </Button>
           ))}
         </div>
+      </Card>
+
+      {/* Voting Section */}
+      <Card className="p-4 mb-4 bg-card border-border">
+        <div className="flex items-center gap-2 mb-4">
+          <Vote className="h-5 w-5 text-primary" />
+          <h2 className="text-lg font-semibold">Votação</h2>
+        </div>
+        <div className="flex flex-wrap gap-2">
+          <Button
+            variant={state.config.votingEnabled ? 'default' : 'outline'}
+            size="sm"
+            onClick={() => dispatch({ type: 'SET_VOTING_ENABLED', payload: true })}
+          >
+            Com votação
+          </Button>
+          <Button
+            variant={!state.config.votingEnabled ? 'default' : 'outline'}
+            size="sm"
+            onClick={() => dispatch({ type: 'SET_VOTING_ENABLED', payload: false })}
+          >
+            Sem votação
+          </Button>
+        </div>
+        <p className="text-muted-foreground text-sm mt-2">
+          {state.config.votingEnabled 
+            ? 'Cada jogador vota individualmente passando o celular'
+            : 'Ao final, apenas revela quem era o impostor'}
+        </p>
       </Card>
 
       {/* Start Button */}
