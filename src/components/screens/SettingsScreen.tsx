@@ -3,8 +3,9 @@ import { Card } from '@/components/ui/card';
 import { Switch } from '@/components/ui/switch';
 import { useGame } from '@/contexts/GameContext';
 import { resetConfig } from '@/lib/storage';
-import { ArrowLeft, Volume2, Vibrate, RotateCcw, Vote } from 'lucide-react';
+import { ArrowLeft, Volume2, Vibrate, RotateCcw, Vote, Sun, Moon } from 'lucide-react';
 import { Screen } from '@/pages/Index';
+import { useTheme } from 'next-themes';
 
 interface SettingsScreenProps {
   onNavigate: (screen: Screen) => void;
@@ -12,6 +13,7 @@ interface SettingsScreenProps {
 
 const SettingsScreen = ({ onNavigate }: SettingsScreenProps) => {
   const { state, dispatch } = useGame();
+  const { theme, setTheme } = useTheme();
 
   const handleReset = () => {
     if (confirm('Isso irá apagar todas as configurações salvas. Continuar?')) {
@@ -19,6 +21,8 @@ const SettingsScreen = ({ onNavigate }: SettingsScreenProps) => {
       window.location.reload();
     }
   };
+
+  const isDarkMode = theme === 'dark';
 
   return (
     <div className="min-h-screen bg-background p-4">
@@ -80,6 +84,22 @@ const SettingsScreen = ({ onNavigate }: SettingsScreenProps) => {
               onCheckedChange={(checked) =>
                 dispatch({ type: 'SET_VOTING_ENABLED', payload: checked })
               }
+            />
+          </div>
+        </Card>
+
+        <Card className="p-4 bg-card">
+          <div className="flex items-center justify-between">
+            <div className="flex items-center gap-3">
+              {isDarkMode ? <Moon className="h-5 w-5 text-primary" /> : <Sun className="h-5 w-5 text-primary" />}
+              <div>
+                <p className="font-medium">Tema</p>
+                <p className="text-sm text-muted-foreground">{isDarkMode ? 'Modo escuro' : 'Modo claro'}</p>
+              </div>
+            </div>
+            <Switch
+              checked={isDarkMode}
+              onCheckedChange={(checked) => setTheme(checked ? 'dark' : 'light')}
             />
           </div>
         </Card>
