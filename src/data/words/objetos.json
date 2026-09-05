@@ -1,0 +1,562 @@
+[
+  {
+    "text": "Chave",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Chaveiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Carteira",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bolsa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mochila",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sacola",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Guarda-chuva",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Óculos",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Relógio",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Celular",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Carregador",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Fone de ouvido",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Controle remoto",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pilha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bateria",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Lanterna",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Lâmpada",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vela",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Isqueiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Fósforo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tesoura",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Faca",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Garfo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Colher",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Prato",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Copo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Caneca",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Xícara",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Garrafa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Jarra",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pote",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Panela",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Frigideira",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Assadeira",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tampa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Escorredor",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Peneira",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ralador",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Funil",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Concha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Espátula",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pegador",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Abridor de latas",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Saca-rolhas",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tábua de corte",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rolha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Guardanapo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Toalha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pano de prato",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Esponja",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vassoura",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rodo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Balde",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pá de lixo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Lixeira",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Saco de lixo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Prendedor de roupa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cabide",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cesto",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Escova de dentes",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pasta de dentes",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Fio dental",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pente",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Escova de cabelo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sabonete",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Saboneteira",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Shampoo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Desodorante",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Perfume",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Papel higiênico",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Algodão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cotonete",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Curativo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Termômetro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cortador de unha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lixa de unha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pinça",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Navalha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Barbeador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Maquiagem",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Espelho de bolso",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Caneta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lápis",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Borracha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Apontador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Régua",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Caderno",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Agenda",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Calendário",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Livro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Marcador de página",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Envelope",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Selo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Clipes",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Grampeador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Grampo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cola",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fita adesiva",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fita isolante",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Elástico",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Barbante",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Corda",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Agulha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Linha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dedal",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Alfinete",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Botão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Zíper",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Martelo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Prego",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Parafuso",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chave de fenda",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Alicate",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Trena",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Estilete",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Serrote",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Furadeira",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cadeado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mosquetão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bússola",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Apito",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sino",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ampulheta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lupa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Binóculo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tripé",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Balança",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sacola térmica",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Garrafa térmica",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Borrifador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Regador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mangueira",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Desentupidor",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Extensão elétrica",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Adaptador de tomada",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pen drive",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Carimbo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Calculadora",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Porta-retrato",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cinzeiro",
+    "difficulty": "medium"
+  }
+]

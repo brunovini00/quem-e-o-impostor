@@ -1,0 +1,762 @@
+[
+  {
+    "text": "Árvore",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Flor",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Folha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Raiz",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tronco",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Galho",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Fruto",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Semente",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Broto",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Grama",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mato",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Arbusto",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cacto",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Samambaia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Musgo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Alga",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cogumelo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Palmeira",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Coqueiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pinheiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Eucalipto",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bambu",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ipê",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mangueira",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Jabuticabeira",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Laranjeira",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Limoeiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bananeira",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Roseira",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Girassol",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Margarida",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Orquídea",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Lírio",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tulipa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Violeta",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Hortênsia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Lavanda",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Jasmim",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Hibisco",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vitória-régia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Floresta",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bosque",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Selva",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mata",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cerrado",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Caatinga",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pantanal",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pampa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Amazônia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mata Atlântica",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Praia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Areia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Duna",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Oceano",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Onda",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Maré",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rio",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Riacho",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Córrego",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Lago",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Lagoa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cachoeira",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Nascente",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Montanha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Serra",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vale",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Colina",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Planalto",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Planície",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Caverna",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Gruta",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rocha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pedra",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cristal",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Solo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Terra",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Barro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Argila",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cascalho",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Manguezal",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Restinga",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Savana",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tundra",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Taiga",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Deserto",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Oásis",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vulcão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lava",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Magma",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cratera",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Geleira",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Iceberg",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Neve",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Geada",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Granizo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chuva",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Garoa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tempestade",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Temporal",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Trovão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Relâmpago",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Raio",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vento",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Brisa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ventania",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Furacão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tornado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ciclone",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Neblina",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Névoa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Orvalho",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Nuvem",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Arco-íris",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sol",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lua",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Estrela",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cometa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Meteoro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Aurora boreal",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Eclipse",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Nascer do sol",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pôr do sol",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Primavera",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Verão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Outono",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Inverno",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Estiagem",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Seca",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Enchente",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Inundação",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Terremoto",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tsunami",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Erosão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Assoreamento",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Deslizamento",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Efeito estufa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Aquecimento global",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mudança climática",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Camada de ozônio",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Poluição",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Desmatamento",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Queimada",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Reflorestamento",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Reciclagem",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Coleta seletiva",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Compostagem",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Adubo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Horta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Jardim",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pomar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Agricultura orgânica",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Agrofloresta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Energia solar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Energia eólica",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Energia hidrelétrica",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Biomassa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Biogás",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sustentabilidade",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Biodiversidade",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ecossistema",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Habitat",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cadeia alimentar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Polinização",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fotossíntese",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Germinação",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Decomposição",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Migração",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Hibernação",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Camuflagem",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Extinção",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Espécie ameaçada",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Reserva ambiental",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Parque nacional",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Unidade de conservação",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Área de preservação",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Corredor ecológico",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Recife de coral",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Atol",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Arquipélago",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Península",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cabo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Baía",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Enseada",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Estuário",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Delta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bacia hidrográfica",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lençol freático",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Aquífero",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fóssil",
+    "difficulty": "medium"
+  }
+]

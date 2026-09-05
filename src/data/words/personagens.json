@@ -1,0 +1,706 @@
+[
+  {
+    "text": "Harry Potter",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Hermione Granger",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ron Weasley",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Alvo Dumbledore",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Lord Voldemort",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Hagrid",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dobby",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Frodo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Gandalf",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Aragorn",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Legolas",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Gollum",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bilbo Bolseiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Luke Skywalker",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Darth Vader",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Princesa Leia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Han Solo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Yoda",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Chewbacca",
+    "difficulty": "easy"
+  },
+  {
+    "text": "R2-D2",
+    "difficulty": "easy"
+  },
+  {
+    "text": "C-3PO",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Homem-Aranha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Homem de Ferro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Capitão América",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Thor",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Hulk",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Viúva Negra",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pantera Negra",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Doutor Estranho",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Feiticeira Escarlate",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Wolverine",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Deadpool",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Batman",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Superman",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mulher-Maravilha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Coringa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Arlequina",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mulher-Gato",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Flash",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Aquaman",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Lanterna Verde",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Shrek",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Burro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Princesa Fiona",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Gato de Botas",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mickey Mouse",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Minnie Mouse",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pato Donald",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Margarida",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pateta",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pluto",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tio Patinhas",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Simba",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mufasa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Scar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Timão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pumba",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Aladdin",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Jasmine",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Gênio da Lâmpada",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ariel",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Úrsula",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bela",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Fera",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cinderela",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Branca de Neve",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Malévola",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rapunzel",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Elsa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Anna",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Olaf",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Moana",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Maui",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Woody",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Buzz Lightyear",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Nemo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dory",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Relâmpago McQueen",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mate",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Remy",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dug",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bing Bong",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Alegria",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tristeza",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Gru",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vector",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Megamente",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Po",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mestre Shifu",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Banguela",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Soluço",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lilo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Stitch",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Peter Pan",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sininho",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Capitão Gancho",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Alice",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chapeleiro Maluco",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rainha de Copas",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Willy Wonka",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mary Poppins",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sherlock Holmes",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dr. Watson",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Hercule Poirot",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Indiana Jones",
+    "difficulty": "medium"
+  },
+  {
+    "text": "James Bond",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Jack Sparrow",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Forrest Gump",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rocky Balboa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rambo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ellen Ripley",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Katniss Everdeen",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Percy Jackson",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Drácula",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Monstro de Frankenstein",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Zorro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tarzan",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Robin Hood",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dom Quixote",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sancho Pança",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Romeu",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Julieta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pinóquio",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pequeno Príncipe",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dorothy",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Espantalho",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Homem de Lata",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Leão Covarde",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mônica",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cebolinha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cascão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Magali",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chico Bento",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Franjinha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bidu",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mingau",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sansão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Emília",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Narizinho",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pedrinho",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Visconde de Sabugosa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dona Benta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tia Nastácia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cuca",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Saci",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Iara",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Curupira",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Boitatá",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mula sem cabeça",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Boto-cor-de-rosa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Negrinho do Pastoreio",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Caipora",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chaves",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chapolin",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Seu Madruga",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dona Florinda",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Quico",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chiquinha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Professor Girafales",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sonic",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mario",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Luigi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Princesa Peach",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bowser",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Link",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Zelda",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pikachu",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ash Ketchum",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Goku",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vegeta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Naruto Uzumaki",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Monkey D. Luffy",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sailor Moon",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bob Esponja",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Patrick Estrela",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lula Molusco",
+    "difficulty": "medium"
+  }
+]

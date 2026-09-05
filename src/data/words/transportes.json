@@ -1,0 +1,682 @@
+[
+  {
+    "text": "Carro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Motocicleta",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bicicleta",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ônibus",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Caminhão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Van",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Micro-ônibus",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Táxi",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ambulância",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Viatura",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Carro de bombeiros",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Trator",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Escavadeira",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Retroescavadeira",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Empilhadeira",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Guindaste",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rolo compressor",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Caminhão de lixo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Caminhão-pipa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Caminhão-tanque",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Caminhão-baú",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Betoneira",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Carreta",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Reboque",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Guincho",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Caminhonete",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Picape",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Conversível",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Limusine",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Furgão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Jipe",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bugue",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Kart",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Quadriciclo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Triciclo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Patinete",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Skate",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Patins",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Charrete",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Carroça",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Carrinho de mão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Carrinho de bebê",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cadeira de rodas",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Trem",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Metrô",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bonde",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Monotrilho",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Locomotiva",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vagão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Teleférico",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Funicular",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Avião",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Helicóptero",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Jato",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Planador",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Balão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dirigível",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ultraleve",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Drone",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Foguete",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ônibus espacial",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Navio",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Barco",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Lancha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Veleiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Iate",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Balsa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Caravela",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Canoa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Caiaque",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Jangada",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Gôndola",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pedalinho",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Jet ski",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Submarino",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Transatlântico",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Navio cargueiro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Petroleiro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Porta-aviões",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rebocador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Catamarã",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Hidroavião",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Avião cargueiro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Avião agrícola",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Avião comercial",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Carro elétrico",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Carro híbrido",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bicicleta elétrica",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ônibus articulado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ônibus de dois andares",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Trem-bala",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Trem de carga",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Trem turístico",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Maria-fumaça",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Trenó",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Riquixá",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tuk-tuk",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Segway",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Motorhome",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Trailer",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Volante",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pedal",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Freio",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Embreagem",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Acelerador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Câmbio",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Marcha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Motor",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Radiador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Escapamento",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Buzina",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Farol",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lanterna traseira",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pisca-alerta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Retrovisor",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Para-brisa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Limpador de para-brisa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Capô",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Porta-malas",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Para-choque",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pneu",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Roda",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Estepe",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Calota",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cinto de segurança",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Airbag",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cadeirinha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Capacete",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Guidão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Selim",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Corrente",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Garupa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bagageiro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tanque de combustível",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Posto de gasolina",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pedágio",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Estacionamento",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Garagem",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rodovia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Estrada",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Avenida",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rua",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ciclovia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Calçada",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Faixa de pedestres",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Semáforo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rotatória",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Viaduto",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ponte",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Túnel",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Acostamento",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Canteiro central",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ponto de ônibus",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Terminal",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rodoviária",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Estação ferroviária",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Aeroporto",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pista de pouso",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Torre de controle",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Hangar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Porto",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cais",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Atracadouro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Canal",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Eclusa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Âncora",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Leme",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vela náutica",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Hélice",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Turbina",
+    "difficulty": "medium"
+  }
+]

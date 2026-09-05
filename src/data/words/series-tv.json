@@ -1,0 +1,602 @@
+[
+  {
+    "text": "Friends",
+    "difficulty": "easy"
+  },
+  {
+    "text": "The Big Bang Theory",
+    "difficulty": "easy"
+  },
+  {
+    "text": "How I Met Your Mother",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Modern Family",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Brooklyn Nine-Nine",
+    "difficulty": "easy"
+  },
+  {
+    "text": "The Office",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Todo Mundo Odeia o Chris",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Um Maluco no Pedaço",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Eu, a Patroa e as Crianças",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Seinfeld",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Chaves",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Chapolin",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sabrina, Aprendiz de Feiticeira",
+    "difficulty": "easy"
+  },
+  {
+    "text": "As Visões da Raven",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Hannah Montana",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Zack & Cody: Gêmeos em Ação",
+    "difficulty": "easy"
+  },
+  {
+    "text": "iCarly",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Drake & Josh",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Kenan & Kel",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Brilhante Victória",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Stranger Things",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Wandinha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Round 6",
+    "difficulty": "easy"
+  },
+  {
+    "text": "La Casa de Papel",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Game of Thrones",
+    "difficulty": "easy"
+  },
+  {
+    "text": "The Walking Dead",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Breaking Bad",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Lost",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Prison Break",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Supernatural",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Smallville",
+    "difficulty": "easy"
+  },
+  {
+    "text": "The Vampire Diaries",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Teen Wolf",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Gossip Girl",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Gilmore Girls",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Grey's Anatomy",
+    "difficulty": "easy"
+  },
+  {
+    "text": "House",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Plantão Médico",
+    "difficulty": "easy"
+  },
+  {
+    "text": "CSI",
+    "difficulty": "easy"
+  },
+  {
+    "text": "NCIS",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Law & Order",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sherlock",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Doctor Who",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Black Mirror",
+    "difficulty": "easy"
+  },
+  {
+    "text": "The Crown",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bridgerton",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Anne with an E",
+    "difficulty": "easy"
+  },
+  {
+    "text": "The Last of Us",
+    "difficulty": "easy"
+  },
+  {
+    "text": "The Mandalorian",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Loki",
+    "difficulty": "easy"
+  },
+  {
+    "text": "A Grande Família",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Os Normais",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sai de Baixo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "A Diarista",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Toma Lá, Dá Cá",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tapas & Beijos",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vai que Cola",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sítio do Picapau Amarelo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Castelo Rá-Tim-Bum",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mundo da Lua",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cocoricó",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bom Dia & Companhia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "TV Colosso",
+    "difficulty": "easy"
+  },
+  {
+    "text": "TV Xuxa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Xou da Xuxa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Planeta Xuxa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Programa Silvio Santos",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Domingão do Faustão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Domingão com Huck",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Caldeirão do Huck",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Altas Horas",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fantástico",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Globo Repórter",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Globo Rural",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Jornal Nacional",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Jornal Hoje",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bom Dia Brasil",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Roda Viva",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Provoca",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Manhattan Connection",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sem Censura",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mais Você",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Encontro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "É de Casa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Saia Justa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Conversa com Bial",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lady Night",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Que História é Essa, Porchat?",
+    "difficulty": "medium"
+  },
+  {
+    "text": "The Noite",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Programa do Jô",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Agora É Tarde",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Domingo Legal",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Eliana",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Programa da Sabrina",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Hora do Faro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ratinho",
+    "difficulty": "medium"
+  },
+  {
+    "text": "A Praça é Nossa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Zorra Total",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Casseta & Planeta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pânico na TV",
+    "difficulty": "medium"
+  },
+  {
+    "text": "CQC",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Porta dos Fundos",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Big Brother Brasil",
+    "difficulty": "medium"
+  },
+  {
+    "text": "A Fazenda",
+    "difficulty": "medium"
+  },
+  {
+    "text": "No Limite",
+    "difficulty": "medium"
+  },
+  {
+    "text": "MasterChef Brasil",
+    "difficulty": "medium"
+  },
+  {
+    "text": "The Voice Brasil",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ídolos",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Popstars",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fama",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dança dos Famosos",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Show dos Famosos",
+    "difficulty": "medium"
+  },
+  {
+    "text": "The Masked Singer Brasil",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bake Off Brasil",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cozinha Sob Pressão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pesadelo na Cozinha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Quem Quer Ser um Milionário?",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Show do Milhão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Passa ou Repassa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Soletrando",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Qual É a Música?",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Roda a Roda",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Jogo dos Pontinhos",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Malhação",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rebelde",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chiquititas",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Carrossel",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cúmplices de um Resgate",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Avenida Brasil",
+    "difficulty": "medium"
+  },
+  {
+    "text": "O Clone",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Caminho das Índias",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Senhora do Destino",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Laços de Família",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Terra Nostra",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chocolate com Pimenta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Alma Gêmea",
+    "difficulty": "medium"
+  },
+  {
+    "text": "O Cravo e a Rosa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pantanal",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Renascer",
+    "difficulty": "medium"
+  },
+  {
+    "text": "O Rei do Gado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Roque Santeiro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vale Tudo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tieta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Gabriela",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Escrava Isaura",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cheias de Charme",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Haja Coração",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Totalmente Demais",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Além do Tempo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "A Viagem",
+    "difficulty": "medium"
+  }
+]

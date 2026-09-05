@@ -1,0 +1,702 @@
+[
+  {
+    "text": "Brasil",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Argentina",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Uruguai",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Paraguai",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Chile",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bolívia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Peru",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Equador",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Colômbia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Venezuela",
+    "difficulty": "easy"
+  },
+  {
+    "text": "México",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Estados Unidos",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Canadá",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cuba",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Portugal",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Espanha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "França",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Itália",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Alemanha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Reino Unido",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Irlanda",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Suíça",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Áustria",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bélgica",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Países Baixos",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Suécia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Noruega",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dinamarca",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Finlândia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Islândia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Grécia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Turquia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rússia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ucrânia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Polônia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Japão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "China",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Coreia do Sul",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Índia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tailândia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Indonésia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Austrália",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Nova Zelândia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Egito",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Marrocos",
+    "difficulty": "easy"
+  },
+  {
+    "text": "África do Sul",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Angola",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Moçambique",
+    "difficulty": "easy"
+  },
+  {
+    "text": "São Paulo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rio de Janeiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Salvador",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Brasília",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Fortaleza",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Recife",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Belo Horizonte",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Curitiba",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Porto Alegre",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Manaus",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Belém",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Florianópolis",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Natal",
+    "difficulty": "easy"
+  },
+  {
+    "text": "João Pessoa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Maceió",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Aracaju",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Teresina",
+    "difficulty": "easy"
+  },
+  {
+    "text": "São Luís",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vitória",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Goiânia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cuiabá",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Campo Grande",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Palmas",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rio Branco",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Porto Velho",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Boa Vista",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Macapá",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Campinas",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Santos",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ribeirão Preto",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sorocaba",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ouro Preto",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tiradentes",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Paraty",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Petrópolis",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Gramado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Canela",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Foz do Iguaçu",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bonito",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Olinda",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Caruaru",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Juazeiro do Norte",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Campina Grande",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Porto Seguro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ilhéus",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Santarém",
+    "difficulty": "medium"
+  },
+  {
+    "text": "São Luís do Paraitinga",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Buenos Aires",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Montevidéu",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Santiago",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lima",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bogotá",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Quito",
+    "difficulty": "medium"
+  },
+  {
+    "text": "La Paz",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Assunção",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Caracas",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cidade do México",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Havana",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Nova York",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Los Angeles",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Miami",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Toronto",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vancouver",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lisboa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Porto",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Madri",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Barcelona",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Paris",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lyon",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Roma",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Veneza",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Florença",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Londres",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Edimburgo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dublin",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Berlim",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Munique",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Amsterdã",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bruxelas",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Viena",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Praga",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Budapeste",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Atenas",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Istambul",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Moscou",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tóquio",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Quioto",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pequim",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Xangai",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Seul",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bangcoc",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Nova Déli",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mumbai",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sydney",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Melbourne",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Auckland",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cairo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Marrakech",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cidade do Cabo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Nairóbi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dubai",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Jerusalém",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Samba",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Capoeira",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Frevo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Maracatu",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bumba meu boi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Carimbó",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tango",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Flamenco",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cerimônia do chá",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Origami",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Caligrafia japonesa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dança do ventre",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dança irlandesa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Haka",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Carnaval de Veneza",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ano-Novo Chinês",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dia dos Mortos",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Festa junina",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Oktoberfest",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Hanami",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Festa da colheita",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Roda de chimarrão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Literatura de cordel",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Azulejo português",
+    "difficulty": "medium"
+  }
+]

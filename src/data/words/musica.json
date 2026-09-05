@@ -1,0 +1,946 @@
+[
+  {
+    "text": "Violão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Guitarra",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Baixo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bateria",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Piano",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Teclado",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Flauta",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Violino",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Violoncelo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Contrabaixo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Saxofone",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Trompete",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Trombone",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Clarinete",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sanfona",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Órgão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cavaquinho",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Banjo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ukulele",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bandolim",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Harpa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Gaita",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pandeiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tamborim",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Surdo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Repique",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cuíca",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Agogô",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Berimbau",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Atabaque",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Triângulo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Zabumba",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Chocalho",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Maracá",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Reco-reco",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Xilofone",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Metalofone",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bongô",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Congas",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cajón",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Castanhola",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tímpano",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Prato",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sino",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Fagote",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Oboé",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tuba",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Trompa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Flauta doce",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Flauta transversal",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Samba",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pagode",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sertanejo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Forró",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Funk",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rap",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Hip-hop",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rock",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pop",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Jazz",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Blues",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Reggae",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Axé",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bossa nova",
+    "difficulty": "easy"
+  },
+  {
+    "text": "MPB",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Música clássica",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ópera",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Gospel",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Música eletrônica",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Heavy metal",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Punk",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Disco",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Soul",
+    "difficulty": "medium"
+  },
+  {
+    "text": "R&B",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Country",
+    "difficulty": "medium"
+  },
+  {
+    "text": "K-pop",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Reggaeton",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Salsa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Merengue",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bolero",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tango",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Frevo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Maracatu",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Baião",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Xote",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Choro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lambada",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tecnobrega",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Piseiro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Brega",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cantiga de roda",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Canção de ninar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Hino",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Jingle",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Paródia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Trilha sonora",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Concerto",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Orquestra",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Coral",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Banda",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dueto",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Solo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Refrão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Melodia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Harmonia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ritmo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Compasso",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Partitura",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Nota musical",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Clave de sol",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Metrônomo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Afinador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Microfone",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Amplificador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mesa de som",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fone de retorno",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Palheta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Baqueta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Arco de violino",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pedal de efeito",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tom Jobim",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vinicius de Moraes",
+    "difficulty": "medium"
+  },
+  {
+    "text": "João Gilberto",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chico Buarque",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Caetano Veloso",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Gilberto Gil",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Gal Costa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Maria Bethânia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Elis Regina",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Elza Soares",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Milton Nascimento",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Djavan",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tim Maia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Jorge Ben Jor",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cartola",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Adoniran Barbosa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Noel Rosa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pixinguinha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Luiz Gonzaga",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dominguinhos",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Alceu Valença",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Zeca Pagodinho",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Paulinho da Viola",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Beth Carvalho",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Alcione",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Clara Nunes",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Martinho da Vila",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Seu Jorge",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Marisa Monte",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Carlinhos Brown",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Arnaldo Antunes",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rita Lee",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cazuza",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Renato Russo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Raul Seixas",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chorão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sandy",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Junior Lima",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ivete Sangalo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Claudia Leitte",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Anitta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ludmilla",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Iza",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pabllo Vittar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Gloria Groove",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lulu Santos",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Jota Quest",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Skank",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Titãs",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Paralamas do Sucesso",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Capital Inicial",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Charlie Brown Jr.",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Legião Urbana",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Os Mutantes",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Racionais MC's",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Emicida",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Criolo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Liniker",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Luedji Luna",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Marília Mendonça",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Maiara & Maraisa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Henrique & Juliano",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Jorge & Mateus",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chitãozinho & Xororó",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Zezé Di Camargo & Luciano",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Almir Sater",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sérgio Reis",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Roberto Carlos",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Erasmo Carlos",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Wesley Safadão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Xand Avião",
+    "difficulty": "medium"
+  },
+  {
+    "text": "The Beatles",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Queen",
+    "difficulty": "medium"
+  },
+  {
+    "text": "ABBA",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bee Gees",
+    "difficulty": "medium"
+  },
+  {
+    "text": "The Rolling Stones",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pink Floyd",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Nirvana",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Metallica",
+    "difficulty": "medium"
+  },
+  {
+    "text": "AC/DC",
+    "difficulty": "medium"
+  },
+  {
+    "text": "U2",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Coldplay",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Radiohead",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Oasis",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Linkin Park",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Beyoncé",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Taylor Swift",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Madonna",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Michael Jackson",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Prince",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Whitney Houston",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mariah Carey",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Céline Dion",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Adele",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lady Gaga",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rihanna",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bruno Mars",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ed Sheeran",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Billie Eilish",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dua Lipa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Shakira",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bad Bunny",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bob Marley",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Elvis Presley",
+    "difficulty": "medium"
+  },
+  {
+    "text": "David Bowie",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Elton John",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Stevie Wonder",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Aretha Franklin",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Louis Armstrong",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ella Fitzgerald",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Frank Sinatra",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ludwig van Beethoven",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Wolfgang Amadeus Mozart",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Johann Sebastian Bach",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Heitor Villa-Lobos",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chiquinha Gonzaga",
+    "difficulty": "medium"
+  }
+]

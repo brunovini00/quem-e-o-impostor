@@ -1,0 +1,1158 @@
+[
+  {
+    "text": "Andar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Correr",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pular",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pescar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dançar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cantar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Falar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sussurrar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Gritar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rir",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sorrir",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Chorar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dormir",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Acordar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sonhar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bocejar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Espreguiçar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Respirar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Espirrar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tossir",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Soluçar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Comer",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Beber",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mastigar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Engolir",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cozinhar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Assar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Fritar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ferver",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mexer",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Misturar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cortar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Picar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Descascar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Temperar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Servir",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Lavar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Enxaguar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Secar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Limpar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Varrer",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Esfregar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Aspirar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Passar roupa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dobrar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Guardar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Organizar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Arrumar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bagunçar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vestir",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Calçar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pentear",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Escovar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Barbear",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Maquiar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tomar banho",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Nadar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mergulhar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Boiar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pedalar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Patinar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dirigir",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Estacionar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Frear",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Acelerar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Voar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Remar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Navegar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Viajar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Passear",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Subir",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Descer",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Entrar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sair",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sentar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Levantar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Deitar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Agachar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ajoelhar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rastejar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Engatinhar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Escalar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Equilibrar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Girar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rodar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Balançar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Escorregar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tropeçar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cair",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rolar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Empurrar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Puxar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Carregar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Levantar peso",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Arrastar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Transportar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Buscar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Levar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Trazer",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pegar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Soltar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Segurar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Apertar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Afrouxar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Abrir",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fechar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Trancar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Destrancar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Amarrar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Desamarrar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Prender",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Desprender",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Montar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Desmontar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Construir",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Demolir",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Consertar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Quebrar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Colar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pregar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Parafusar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lixar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pintar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Desenhar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Colorir",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rabiscar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Apagar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Escrever",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ler",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Estudar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ensinar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Aprender",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pesquisar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Perguntar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Responder",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Explicar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Contar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Calcular",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Somar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Subtrair",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Multiplicar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dividir",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Medir",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pesar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Comparar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Classificar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Escolher",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Decidir",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Planejar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Imaginar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Inventar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Criar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Observar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Olhar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Enxergar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ouvir",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Escutar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cheirar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Provar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tocar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sentir",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lembrar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Esquecer",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Reconhecer",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Descobrir",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Procurar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Encontrar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Esconder",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Revelar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Adivinhar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Investigar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fotografar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Filmar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Gravar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Editar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Publicar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Compartilhar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Enviar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Receber",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Telefonar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Digitar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Clicar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Baixar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Instalar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Carregar a bateria",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Comprar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vender",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pagar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cobrar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Economizar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Poupar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Gastar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Trocar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Emprestar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Devolver",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Doar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Presentear",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Agradecer",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pedir",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Oferecer",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Aceitar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Recusar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Convidar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Visitar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cumprimentar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Abraçar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Beijar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Acariciar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Acolher",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cuidar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ajudar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cooperar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dividir tarefas",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Brincar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Jogar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Competir",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Torcer",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vencer",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Perder",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Empatar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Treinar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Alongar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Relaxar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Meditar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Descansar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Esperar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Costurar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Apressar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Atrasar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Começar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Terminar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Continuar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Parar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Recomeçar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Repetir",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mudar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Transformar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Crescer",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Diminuir",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Aumentar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Encolher",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Florescer",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Plantar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Regar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Colher",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Podar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cavar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Semear",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Adubar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Reciclar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Reutilizar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Separar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Descartar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Proteger",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Preservar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Apagar o fogo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Acender",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Iluminar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Aquecer",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Esfriar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Congelar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Derreter",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tricotar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ventilar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Assoprar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Assobiar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Estalar os dedos",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bater palmas",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fazer careta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Piscar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Apontar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Acenar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Imitar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Representar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Atuar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Declamar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Narrar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Argumentar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Debater",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Negociar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Convencer",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Concordar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Discordar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Prometer",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cumprir",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Perdoar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Comemorar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bordar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Brindar",
+    "difficulty": "medium"
+  }
+]

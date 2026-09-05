@@ -1,0 +1,766 @@
+[
+  {
+    "text": "Casa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Apartamento",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sobrado",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Quitinete",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Loft",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Edícula",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Varanda",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sacada",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Terraço",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Quintal",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Jardim",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Garagem",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Portão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Muro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cerca",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Entrada",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Corredor",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Escada",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Hall",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sala de estar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sala de jantar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Quarto",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Suíte",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Banheiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Lavabo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cozinha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Copa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Despensa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Lavanderia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Área de serviço",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Escritório",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Biblioteca",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Closet",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sótão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Porão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Telhado",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Chaminé",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Lareira",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Parede",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Teto",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Piso",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rodapé",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Janela",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Porta",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Batente",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Maçaneta",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Fechadura",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dobradiça",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vidro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Persiana",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cortina",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Varão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tapete",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Capacho",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sofá",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Poltrona",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pufe",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cadeira",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Banco",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Banqueta",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mesa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mesa de centro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mesa lateral",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mesa de jantar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Escrivaninha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Estante",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Prateleira",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rack",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Aparador",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cristaleira",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Buffet",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Armário",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Guarda-roupa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cômoda",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Penteadeira",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sapateira",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cabideiro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Gaveteiro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Baú",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cama",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Beliche",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Treliche",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cama box",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sofá-cama",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Berço",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cama de solteiro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cama de casal",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cabeceira",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Estrado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Colchão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Travesseiro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Almofada",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lençol",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fronha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Edredom",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cobertor",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Manta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Colcha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mosquiteiro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rede de descanso",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Criado-mudo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Abajur",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Luminária",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lustre",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Arandela",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Plafon",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pendente",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fita de LED",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Spot de luz",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Interruptor",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tomada",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Espelho",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Quadro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pôster",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fotografia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Porta-retrato",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vaso",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cachepô",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Floreira",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Escultura",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Enfeite",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Miniatura",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Estatueta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Relógio de parede",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Calendário",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Painel",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Papel de parede",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Adesivo decorativo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Azulejo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pastilha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Porcelanato",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cerâmica",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Carpete",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Taco de madeira",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Piso laminado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cimento queimado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mármore",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Granito",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bancada",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ilha de cozinha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cuba",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Torneira",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Filtro de água",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fogão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cooktop",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Forno",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Micro-ondas",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Geladeira",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Freezer",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Coifa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Depurador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lava-louças",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Liquidificador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Batedeira",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cafeteira",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Torradeira",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sanduicheira",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Air fryer",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Panela elétrica",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chaleira elétrica",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Processador de alimentos",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Espremedor de frutas",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Centrífuga",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Máquina de lavar roupa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Secadora",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tanque",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Varal",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ferro de passar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tábua de passar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Aspirador de pó",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Robô aspirador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ventilador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ar-condicionado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Aquecedor",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Umidificador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Desumidificador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chuveiro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Banheira",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Box",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vaso sanitário",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bidê",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ducha higiênica",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Toalheiro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Saboneteira",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Porta-escovas",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cesto de roupa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lixeira",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Escorredor de pratos",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fruteira",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Porta-temperos",
+    "difficulty": "medium"
+  }
+]

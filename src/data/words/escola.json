@@ -1,0 +1,762 @@
+[
+  {
+    "text": "Escola",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Faculdade",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Universidade",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Creche",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pré-escola",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ensino fundamental",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ensino médio",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ensino técnico",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Graduação",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pós-graduação",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mestrado",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Doutorado",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sala de aula",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Biblioteca",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Laboratório",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Quadra",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pátio",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Refeitório",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cantina",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Secretaria",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Diretoria",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Auditório",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sala dos professores",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Carteira escolar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Lousa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Giz",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Apagador",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Quadro branco",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Projetor",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Computador",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Caderno",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Fichário",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Agenda",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Estojo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Lápis",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Caneta",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Borracha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Apontador",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Régua",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Compasso",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Transferidor",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Esquadro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Calculadora",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Livro didático",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dicionário",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Atlas",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Globo terrestre",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mapa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mochila",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Lancheira",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Uniforme",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Crachá",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Boletim",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Prova",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Teste",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Trabalho em grupo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Seminário",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Apresentação",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Redação",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ditado",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Lição de casa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Recreio",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Excursão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Feira de ciências",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Festa junina",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Formatura",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Diploma",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Certificado",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vestibular",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Enem",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Matrícula",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chamada",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lista de presença",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Calendário escolar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Horário de aula",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Grade curricular",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Plano de ensino",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Monitoria",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tutoria",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Estágio",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bolsa de estudos",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Intercâmbio",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Iniciação científica",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pesquisa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tese",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dissertação",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Monografia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Artigo científico",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Referência bibliográfica",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Plágio",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Resumo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Resenha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fichamento",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Anotação",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mapa mental",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Português",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Matemática",
+    "difficulty": "medium"
+  },
+  {
+    "text": "História",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Geografia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ciências",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Biologia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Física",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Química",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Filosofia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sociologia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Artes",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Educação física",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Inglês",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Espanhol",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Literatura",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Gramática",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Alfabeto",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vogal",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Consoante",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sílaba",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Substantivo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Verbo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Adjetivo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pronome",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sinônimo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Antônimo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pontuação",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Acentuação",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Metáfora",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Poesia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Conto",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Crônica",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Romance",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fábula",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lenda",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Adição",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Subtração",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Multiplicação",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Divisão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fração",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Porcentagem",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Equação",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Raiz quadrada",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Potência",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Número primo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Número decimal",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Geometria",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Triângulo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Quadrado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Retângulo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Círculo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Losango",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Trapézio",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cubo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Esfera",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pirâmide",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cone",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cilindro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Perímetro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Área",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Volume",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ângulo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Estatística",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Probabilidade",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Gráfico",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tabela",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Média",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mediana",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Moda",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sistema solar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Planeta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Continente",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Oceano",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Capital",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bandeira",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fuso horário",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Latitude",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Longitude",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rosa dos ventos",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bússola",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Relevo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Clima",
+    "difficulty": "medium"
+  },
+  {
+    "text": "População",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Democracia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cidadania",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Constituição",
+    "difficulty": "medium"
+  },
+  {
+    "text": "República",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Monarquia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Independência",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Revolução Industrial",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Renascimento",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Idade Média",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pré-história",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Arqueologia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Museu",
+    "difficulty": "medium"
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "text": "Arroz",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Feijão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Macarrão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Lasanha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pizza",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Hambúrguer",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cachorro-quente",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Batata frita",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Purê de batata",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Omelete",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ovo mexido",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ovo frito",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sopa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Caldo verde",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Salada",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Churrasco",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Feijoada",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Strogonoff",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Panqueca",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Risoto",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bife à milanesa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Frango assado",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Peixe frito",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Arroz de forno",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Escondidinho",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Carne de panela",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Almôndega",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Torta de frango",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Empadão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pastel",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Coxinha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Empada",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Quibe",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Esfiha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pão de queijo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pão francês",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pão de forma",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pão integral",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Torrada",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sanduíche",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Misto-quente",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bauru",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tapioca",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cuscuz",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Farofa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pipoca",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bolo de chocolate",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bolo de cenoura",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Brigadeiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Beijinho",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pudim",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sorvete",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Picolé",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Gelatina",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mousse de maracujá",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Arroz-doce",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Canjica",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Paçoca",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pé de moleque",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Doce de leite",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Goiabada",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cocada",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Biscoito",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bolacha recheada",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sonho",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Churros",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rabanada",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Panetone",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Croissant",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rosquinha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Acarajé",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vatapá",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Moqueca",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bobó de camarão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Baião de dois",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Arroz carreteiro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Galinhada",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vaca atolada",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Barreado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tutu de feijão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Feijão-tropeiro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pirão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pamonha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Curau",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Polenta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Nhoque",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ravióli",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Capeletti",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Canelone",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Yakissoba",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sushi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sashimi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Temaki",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Guioza",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lámen",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tempurá",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Falafel",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Homus",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tabule",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Shawarma",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Taco",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Burrito",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Nachos",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Guacamole",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Paella",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bacalhau à Gomes de Sá",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ceviche",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Quiche",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fondue",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Crepe",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Waffle",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Brownie",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cheesecake",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tiramisù",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pavê",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Banoffee",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Petit gâteau",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Quindim",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Manjar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sagu",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ambrosia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Queijadinha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Romeu e Julieta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Torta holandesa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Salpicão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Maionese de batata",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bolinho de chuva",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bolinho de bacalhau",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Casquinha de siri",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rocambole",
+    "difficulty": "medium"
+  }
+]

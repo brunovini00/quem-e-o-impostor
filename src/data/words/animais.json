@@ -1,0 +1,682 @@
+[
+  {
+    "text": "Cachorro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Gato",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cavalo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Burro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vaca",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Boi",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Touro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Porco",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cabra",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ovelha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Coelho",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Galinha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Galo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pinto",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pato",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ganso",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Peru",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pombo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Papagaio",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Periquito",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Canário",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Calopsita",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Hamster",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Porquinho-da-índia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rato",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Camundongo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Morcego",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Raposa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Lobo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Urso",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Panda",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Leão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tigre",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Onça",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Leopardo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Guepardo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Elefante",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Girafa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Zebra",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Hipopótamo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rinoceronte",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Macaco",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Gorila",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Chimpanzé",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Orangotango",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Canguru",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Coala",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Preguiça",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tamanduá",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tatu",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Capivara",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Anta",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Veado",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Alce",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Búfalo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Camelo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dromedário",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Lhama",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Alpaca",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Esquilo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Castor",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Lontra",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ariranha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Guaxinim",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Gambá",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ouriço",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Furão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Doninha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Suricato",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Hiena",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Javali",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mico-leão-dourado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lobo-guará",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Quati",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cutia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Paca",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Foca",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Leão-marinho",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Morsa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Baleia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Golfinho",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Orca",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Peixe-boi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tubarão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Arraia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Peixe-palhaço",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cavalo-marinho",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Piranha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Salmão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Atum",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sardinha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bacalhau",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tilápia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bagre",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Enguia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Linguado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Baiacu",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tucunaré",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pirarucu",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Polvo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lula",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Água-viva",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Estrela-do-mar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ouriço-do-mar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Caranguejo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Siri",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lagosta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Camarão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ostra",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mexilhão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Caracol",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lesma",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sapo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rã",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Perereca",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Salamandra",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Jacaré",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Crocodilo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tartaruga",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Jabuti",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cágado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Iguana",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Camaleão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lagartixa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dragão-de-komodo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Jiboia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sucuri",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cascavel",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Naja",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Coral",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Águia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Falcão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Gavião",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Coruja",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Urubu",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tucano",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Arara",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Flamingo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pinguim",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Avestruz",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ema",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pavão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Garça",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cegonha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pelicano",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Beija-flor",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pica-pau",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sabiá",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bem-te-vi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "João-de-barro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Borboleta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mariposa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Abelha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vespa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Formiga",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cupim",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mosquito",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mosca",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Besouro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Joaninha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Libélula",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Grilo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Gafanhoto",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Louva-a-deus",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Barata",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Aranha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Escorpião",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Minhoca",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Centopeia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lacraia",
+    "difficulty": "medium"
+  }
+]

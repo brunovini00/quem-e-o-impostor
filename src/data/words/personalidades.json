@@ -1,0 +1,682 @@
+[
+  {
+    "text": "Pelé",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Marta",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Neymar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ronaldo Fenômeno",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ronaldinho Gaúcho",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Romário",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Kaká",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Zico",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sócrates",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rivaldo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cafu",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Roberto Carlos",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cristiano Ronaldo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Lionel Messi",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Diego Maradona",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ayrton Senna",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rubens Barrichello",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Felipe Massa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Lewis Hamilton",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Michael Schumacher",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rebeca Andrade",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Daiane dos Santos",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rayssa Leal",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Gabriel Medina",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ítalo Ferreira",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Gustavo Kuerten",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Serena Williams",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Roger Federer",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rafael Nadal",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Novak Djokovic",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Usain Bolt",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Michael Phelps",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Simone Biles",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Michael Jordan",
+    "difficulty": "easy"
+  },
+  {
+    "text": "LeBron James",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Kobe Bryant",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Oscar Schmidt",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Hortência",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Magic Paula",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Giba",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bernardinho",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Fofão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Arthur Zanetti",
+    "difficulty": "easy"
+  },
+  {
+    "text": "César Cielo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Thiago Braz",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Isaquias Queiroz",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ana Marcela Cunha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Xuxa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Angélica",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Eliana",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Silvio Santos",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Gugu Liberato",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Luciano Huck",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Faustão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ana Maria Braga",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Fátima Bernardes",
+    "difficulty": "easy"
+  },
+  {
+    "text": "William Bonner",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Serginho Groisman",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Jô Soares",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Hebe Camargo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Celso Portiolli",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rodrigo Faro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sabrina Sato",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tatá Werneck",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Paulo Gustavo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Fábio Porchat",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Leandro Hassum",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Renato Aragão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dedé Santana",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mussum",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Chico Anysio",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Costinha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dercy Gonçalves",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fernanda Montenegro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fernanda Torres",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Selton Mello",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Wagner Moura",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lázaro Ramos",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Taís Araújo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Camila Pitanga",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Adriana Esteves",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Débora Falabella",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Regina Casé",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Glória Pires",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sônia Braga",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Marieta Severo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tony Ramos",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lima Duarte",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Antônio Fagundes",
+    "difficulty": "medium"
+  },
+  {
+    "text": "José de Abreu",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rodrigo Santoro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bruna Marquezine",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Marina Ruy Barbosa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Viola Davis",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Meryl Streep",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Julia Roberts",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sandra Bullock",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Angelina Jolie",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Scarlett Johansson",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Emma Watson",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Zendaya",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Jennifer Lawrence",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Leonardo DiCaprio",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Brad Pitt",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tom Hanks",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tom Cruise",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Will Smith",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Denzel Washington",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Morgan Freeman",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Keanu Reeves",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Johnny Depp",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Robert Downey Jr.",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Jackie Chan",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bruce Lee",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Charlie Chaplin",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Marilyn Monroe",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Audrey Hepburn",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Walt Disney",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Steven Spielberg",
+    "difficulty": "medium"
+  },
+  {
+    "text": "George Lucas",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Alfred Hitchcock",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Quentin Tarantino",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tim Burton",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Christopher Nolan",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Hayao Miyazaki",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mauricio de Sousa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ziraldo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Monteiro Lobato",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Machado de Assis",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Clarice Lispector",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Jorge Amado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Carlos Drummond de Andrade",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cecília Meireles",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Carolina Maria de Jesus",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Conceição Evaristo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Paulo Freire",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ariano Suassuna",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cora Coralina",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mário de Andrade",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Manuel Bandeira",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Albert Einstein",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Isaac Newton",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Marie Curie",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Charles Darwin",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Galileu Galilei",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Leonardo da Vinci",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Frida Kahlo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pablo Picasso",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vincent van Gogh",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tarsila do Amaral",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Anita Malfatti",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Candido Portinari",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Santos Dumont",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ada Lovelace",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Alan Turing",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Stephen Hawking",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Nikola Tesla",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Thomas Edison",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Nelson Mandela",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Martin Luther King",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mahatma Gandhi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Malala Yousafzai",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Anne Frank",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Amelia Earhart",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Yuri Gagarin",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Neil Armstrong",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Valentina Tereshkova",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Jacques Cousteau",
+    "difficulty": "medium"
+  },
+  {
+    "text": "David Attenborough",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Jane Goodall",
+    "difficulty": "medium"
+  }
+]

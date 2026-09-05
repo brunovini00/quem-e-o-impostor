@@ -1,0 +1,762 @@
+[
+  {
+    "text": "Xadrez",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Damas",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dominó",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ludo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Jogo da velha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Forca",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Stop",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Batalha naval",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Banco Imobiliário",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Jogo da Vida",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Detetive",
+    "difficulty": "easy"
+  },
+  {
+    "text": "War",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Imagem & Ação",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Perfil",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cara a Cara",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Uno",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Baralho",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Truco",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Buraco",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Paciência",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pôquer",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bingo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Memória",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Quebra-cabeça",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pega-varetas",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Jenga",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cubo mágico",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Amarelinha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Esconde-esconde",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pega-pega",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cabra-cega",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bambolê",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pular corda",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bola de gude",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pião",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ioiô",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Peteca",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Queimada",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Batata quente",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dança das cadeiras",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mímica",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Telefone sem fio",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Verdade ou desafio",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pedra, papel e tesoura",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Minecraft",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Roblox",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Fortnite",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Free Fire",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Among Us",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Fall Guys",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rocket League",
+    "difficulty": "easy"
+  },
+  {
+    "text": "League of Legends",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dota 2",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Counter-Strike",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Valorant",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Overwatch",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Apex Legends",
+    "difficulty": "easy"
+  },
+  {
+    "text": "PUBG",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Call of Duty",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Battlefield",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Grand Theft Auto",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Red Dead Redemption",
+    "difficulty": "easy"
+  },
+  {
+    "text": "The Sims",
+    "difficulty": "easy"
+  },
+  {
+    "text": "SimCity",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Stardew Valley",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Animal Crossing",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pokémon GO",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Candy Crush",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Angry Birds",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Subway Surfers",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Temple Run",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fruit Ninja",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Clash of Clans",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Clash Royale",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Brawl Stars",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Plants vs. Zombies",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cut the Rope",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Monument Valley",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Genshin Impact",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Honkai: Star Rail",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Super Mario Bros.",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mario Kart",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mario Party",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Super Smash Bros.",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Donkey Kong Country",
+    "difficulty": "medium"
+  },
+  {
+    "text": "The Legend of Zelda",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Kirby",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Metroid",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Splatoon",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pikmin",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Wii Sports",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sonic the Hedgehog",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Crash Bandicoot",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Spyro the Dragon",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rayman",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pac-Man",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tetris",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Space Invaders",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pong",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Asteroids",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Frogger",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bomberman",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mega Man",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Castlevania",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Street Fighter",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mortal Kombat",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tekken",
+    "difficulty": "medium"
+  },
+  {
+    "text": "The King of Fighters",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Soulcalibur",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Guilty Gear",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Final Fantasy",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dragon Quest",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chrono Trigger",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Kingdom Hearts",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Persona",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fire Emblem",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Undertale",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Hollow Knight",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Celeste",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cuphead",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ori and the Blind Forest",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Hades",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dead Cells",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Terraria",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Don't Starve",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Slay the Spire",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Balatro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vampire Survivors",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Hearthstone",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Magic: The Gathering",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Yu-Gi-Oh!",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Catan",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ticket to Ride",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dixit",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Carcassonne",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Azul",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dobble",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Codenames",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dungeons & Dragons",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tormenta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "World of Warcraft",
+    "difficulty": "medium"
+  },
+  {
+    "text": "RuneScape",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ragnarok Online",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tibia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Diablo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Path of Exile",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dark Souls",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Elden Ring",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bloodborne",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sekiro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "God of War",
+    "difficulty": "medium"
+  },
+  {
+    "text": "The Last of Us",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Uncharted",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tomb Raider",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Resident Evil",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Silent Hill",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Metal Gear Solid",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Death Stranding",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Assassin's Creed",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Far Cry",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Watch Dogs",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Hitman",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Batman: Arkham Asylum",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Marvel's Spider-Man",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Horizon Zero Dawn",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ghost of Tsushima",
+    "difficulty": "medium"
+  },
+  {
+    "text": "The Witcher",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Skyrim",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fallout",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mass Effect",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dragon Age",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Baldur's Gate",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cyberpunk 2077",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Portal",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Half-Life",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Left 4 Dead",
+    "difficulty": "medium"
+  },
+  {
+    "text": "BioShock",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dishonored",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Doom",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Quake",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Halo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Gears of War",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Forza Horizon",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Gran Turismo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Need for Speed",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Burnout",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tony Hawk's Pro Skater",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Just Dance",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Guitar Hero",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rock Band",
+    "difficulty": "medium"
+  }
+]

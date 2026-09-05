@@ -1,0 +1,177 @@
+[
+  {
+    "id": "comidas",
+    "name": "Comidas e pratos",
+    "emoji": "🍲",
+    "description": "Receitas, refeições e sabores para compartilhar.",
+    "file": "comidas.json"
+  },
+  {
+    "id": "bebidas",
+    "name": "Bebidas",
+    "emoji": "🥤",
+    "description": "Do café da manhã ao brinde da festa.",
+    "file": "bebidas.json"
+  },
+  {
+    "id": "ingredientes",
+    "name": "Frutas, verduras e ingredientes",
+    "emoji": "🥕",
+    "description": "Da feira à despensa da cozinha.",
+    "file": "ingredientes.json"
+  },
+  {
+    "id": "animais",
+    "name": "Animais",
+    "emoji": "🐾",
+    "description": "Bichos de casa, do campo, do mar e da floresta.",
+    "file": "animais.json"
+  },
+  {
+    "id": "objetos",
+    "name": "Objetos do cotidiano",
+    "emoji": "🔑",
+    "description": "Coisas que aparecem no dia a dia.",
+    "file": "objetos.json"
+  },
+  {
+    "id": "profissoes",
+    "name": "Profissões",
+    "emoji": "🛠️",
+    "description": "Trabalhos e ofícios de muitas áreas.",
+    "file": "profissoes.json"
+  },
+  {
+    "id": "lugares",
+    "name": "Lugares e pontos turísticos",
+    "emoji": "🗺️",
+    "description": "Destinos famosos e espaços para explorar.",
+    "file": "lugares.json"
+  },
+  {
+    "id": "paises-cidades",
+    "name": "Países, cidades e culturas",
+    "emoji": "🌎",
+    "description": "Nomes do mapa e tradições pelo mundo.",
+    "file": "paises-cidades.json"
+  },
+  {
+    "id": "filmes",
+    "name": "Filmes",
+    "emoji": "🎬",
+    "description": "Histórias marcantes das telas de cinema.",
+    "file": "filmes.json"
+  },
+  {
+    "id": "series-tv",
+    "name": "Séries e programas de TV",
+    "emoji": "📺",
+    "description": "Séries, novelas e atrações da televisão.",
+    "file": "series-tv.json"
+  },
+  {
+    "id": "desenhos",
+    "name": "Desenhos e animações",
+    "emoji": "🎨",
+    "description": "Desenhos animados de várias gerações.",
+    "file": "desenhos.json"
+  },
+  {
+    "id": "personagens",
+    "name": "Personagens fictícios",
+    "emoji": "🦸",
+    "description": "Heróis, vilões e figuras inesquecíveis.",
+    "file": "personagens.json"
+  },
+  {
+    "id": "personalidades",
+    "name": "Celebridades e personalidades conhecidas",
+    "emoji": "⭐",
+    "description": "Pessoas conhecidas nas artes, no esporte e na história.",
+    "file": "personalidades.json"
+  },
+  {
+    "id": "esportes",
+    "name": "Esportes",
+    "emoji": "🏅",
+    "description": "Modalidades, equipamentos e momentos de competição.",
+    "file": "esportes.json"
+  },
+  {
+    "id": "jogos",
+    "name": "Jogos e videogames",
+    "emoji": "🎮",
+    "description": "Dos jogos de mesa aos mundos digitais.",
+    "file": "jogos.json"
+  },
+  {
+    "id": "musica",
+    "name": "Música, artistas e instrumentos",
+    "emoji": "🎵",
+    "description": "Ritmos, artistas e instrumentos para dar o tom.",
+    "file": "musica.json"
+  },
+  {
+    "id": "tecnologia",
+    "name": "Tecnologia e internet",
+    "emoji": "💻",
+    "description": "Aparelhos, aplicativos e ideias do mundo digital.",
+    "file": "tecnologia.json"
+  },
+  {
+    "id": "natureza",
+    "name": "Natureza e meio ambiente",
+    "emoji": "🌿",
+    "description": "Paisagens, plantas, clima e cuidado com o planeta.",
+    "file": "natureza.json"
+  },
+  {
+    "id": "transportes",
+    "name": "Transportes e veículos",
+    "emoji": "🚆",
+    "description": "Caminhos, viagens e meios de transporte.",
+    "file": "transportes.json"
+  },
+  {
+    "id": "escola",
+    "name": "Escola, faculdade e conhecimentos gerais",
+    "emoji": "📚",
+    "description": "Aprendizado, vida escolar e curiosidades.",
+    "file": "escola.json"
+  },
+  {
+    "id": "corpo-saude",
+    "name": "Corpo humano, saúde e bem-estar",
+    "emoji": "🫀",
+    "description": "Partes do corpo, cuidados e hábitos do dia a dia.",
+    "file": "corpo-saude.json"
+  },
+  {
+    "id": "moda",
+    "name": "Moda, roupas e acessórios",
+    "emoji": "👕",
+    "description": "Peças, estilos e detalhes do guarda-roupa.",
+    "file": "moda.json"
+  },
+  {
+    "id": "casa",
+    "name": "Casa, móveis e decoração",
+    "emoji": "🛋️",
+    "description": "Ambientes, móveis e detalhes de casa.",
+    "file": "casa.json"
+  },
+  {
+    "id": "festas",
+    "name": "Festas, feriados e celebrações",
+    "emoji": "🎉",
+    "description": "Datas especiais, rituais e itens de festa.",
+    "file": "festas.json"
+  },
+  {
+    "id": "acoes",
+    "name": "Ações e verbos",
+    "emoji": "🏃",
+    "description": "Ações para imaginar, descrever e representar.",
+    "file": "acoes.json"
+  }
+]

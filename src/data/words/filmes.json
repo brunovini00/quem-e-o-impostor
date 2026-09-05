@@ -1,0 +1,602 @@
+[
+  {
+    "text": "Titanic",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Avatar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Jurassic Park",
+    "difficulty": "easy"
+  },
+  {
+    "text": "O Rei Leão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Toy Story",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Procurando Nemo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Shrek",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Frozen",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Moana",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Divertida Mente",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Os Incríveis",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Carros",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ratatouille",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Up: Altas Aventuras",
+    "difficulty": "easy"
+  },
+  {
+    "text": "WALL-E",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Viva: A Vida é uma Festa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Encanto",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Zootopia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Madagascar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "A Era do Gelo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Kung Fu Panda",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Como Treinar o Seu Dragão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Meu Malvado Favorito",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Minions",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rio",
+    "difficulty": "easy"
+  },
+  {
+    "text": "A Bela e a Fera",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Aladdin",
+    "difficulty": "easy"
+  },
+  {
+    "text": "A Pequena Sereia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mulan",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pocahontas",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tarzan",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Lilo & Stitch",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Branca de Neve e os Sete Anões",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cinderela",
+    "difficulty": "easy"
+  },
+  {
+    "text": "A Bela Adormecida",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dumbo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bambi",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pinóquio",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Peter Pan",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Alice no País das Maravilhas",
+    "difficulty": "easy"
+  },
+  {
+    "text": "101 Dálmatas",
+    "difficulty": "easy"
+  },
+  {
+    "text": "A Dama e o Vagabundo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Harry Potter e a Pedra Filosofal",
+    "difficulty": "easy"
+  },
+  {
+    "text": "O Senhor dos Anéis: A Sociedade do Anel",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Star Wars: Uma Nova Esperança",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Os Vingadores",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Homem-Aranha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Homem de Ferro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pantera Negra",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mulher-Maravilha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Batman: O Cavaleiro das Trevas",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Superman",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Aquaman",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Deadpool",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Guardiões da Galáxia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Barbie",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Super Mario Bros. O Filme",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sonic: O Filme",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Jumanji",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Esqueceram de Mim",
+    "difficulty": "easy"
+  },
+  {
+    "text": "De Volta para o Futuro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "E.T. — O Extraterrestre",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Os Caça-Fantasmas",
+    "difficulty": "easy"
+  },
+  {
+    "text": "A Fantástica Fábrica de Chocolate",
+    "difficulty": "easy"
+  },
+  {
+    "text": "A Família Addams",
+    "difficulty": "easy"
+  },
+  {
+    "text": "O Máskara",
+    "difficulty": "easy"
+  },
+  {
+    "text": "O Grinch",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Uma Noite no Museu",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Click",
+    "difficulty": "easy"
+  },
+  {
+    "text": "As Branquelas",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Forrest Gump",
+    "difficulty": "medium"
+  },
+  {
+    "text": "O Show de Truman",
+    "difficulty": "medium"
+  },
+  {
+    "text": "À Procura da Felicidade",
+    "difficulty": "medium"
+  },
+  {
+    "text": "À Espera de um Milagre",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Um Sonho de Liberdade",
+    "difficulty": "medium"
+  },
+  {
+    "text": "O Poderoso Chefão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "O Pianista",
+    "difficulty": "medium"
+  },
+  {
+    "text": "A Lista de Schindler",
+    "difficulty": "medium"
+  },
+  {
+    "text": "A Vida é Bela",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sociedade dos Poetas Mortos",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Gênio Indomável",
+    "difficulty": "medium"
+  },
+  {
+    "text": "O Menino do Pijama Listrado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Intocáveis",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Extraordinário",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sempre ao Seu Lado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Marley & Eu",
+    "difficulty": "medium"
+  },
+  {
+    "text": "A Culpa é das Estrelas",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Diário de uma Paixão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Orgulho e Preconceito",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Simplesmente Amor",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Uma Linda Mulher",
+    "difficulty": "medium"
+  },
+  {
+    "text": "O Diabo Veste Prada",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Meninas Malvadas",
+    "difficulty": "medium"
+  },
+  {
+    "text": "De Repente 30",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Legalmente Loira",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mamma Mia!",
+    "difficulty": "medium"
+  },
+  {
+    "text": "La La Land",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Nasce uma Estrela",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bohemian Rhapsody",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rocketman",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Whiplash",
+    "difficulty": "medium"
+  },
+  {
+    "text": "O Fabuloso Destino de Amélie Poulain",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cinema Paradiso",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Central do Brasil",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cidade de Deus",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tropa de Elite",
+    "difficulty": "medium"
+  },
+  {
+    "text": "O Auto da Compadecida",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Minha Mãe é uma Peça",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Se Eu Fosse Você",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Que Horas Ela Volta?",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bacurau",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lisbela e o Prisioneiro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "O Homem que Copiava",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Carandiru",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dois Filhos de Francisco",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dona Flor e Seus Dois Maridos",
+    "difficulty": "medium"
+  },
+  {
+    "text": "O Pagador de Promessas",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Matrix",
+    "difficulty": "medium"
+  },
+  {
+    "text": "A Origem",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Interestelar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Perdido em Marte",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Duna",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Blade Runner",
+    "difficulty": "medium"
+  },
+  {
+    "text": "O Exterminador do Futuro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Alien",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Predador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tubarão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "O Sexto Sentido",
+    "difficulty": "medium"
+  },
+  {
+    "text": "O Iluminado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Psicose",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Corra!",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Jogos Vorazes",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Divergente",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Crepúsculo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Piratas do Caribe: A Maldição do Pérola Negra",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Indiana Jones e os Caçadores da Arca Perdida",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Missão: Impossível",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Duro de Matar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Velozes e Furiosos",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Top Gun",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Gladiador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Coração Valente",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rocky",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Karatê Kid",
+    "difficulty": "medium"
+  },
+  {
+    "text": "A Viagem de Chihiro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Meu Amigo Totoro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Princesa Mononoke",
+    "difficulty": "medium"
+  },
+  {
+    "text": "O Castelo Animado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "O Estranho Mundo de Jack",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Coraline",
+    "difficulty": "medium"
+  }
+]

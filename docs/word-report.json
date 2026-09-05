@@ -1,0 +1,498 @@
+{
+  "schemaVersion": 1,
+  "checkedMode": "required-minimum",
+  "minimumWordsPerTheme": 1000,
+  "expectedThemeCount": 25,
+  "actualThemeCount": 25,
+  "totalEntries": 4368,
+  "totalValidUniqueWords": 4368,
+  "totalMissingWords": 20632,
+  "integrityPassed": true,
+  "quantityPassed": false,
+  "strictPassed": false,
+  "passed": false,
+  "globalErrors": [],
+  "themes": [
+    {
+      "id": "comidas",
+      "name": "Comidas e pratos",
+      "totalEntries": 130,
+      "validEntries": 130,
+      "validUniqueWords": 130,
+      "minimumWords": 1000,
+      "missingWords": 870,
+      "meetsMinimum": false,
+      "difficulties": {
+        "easy": 70,
+        "medium": 60,
+        "hard": 0
+      },
+      "invalidEntries": [],
+      "duplicates": [],
+      "errors": [],
+      "integrityPassed": true
+    },
+    {
+      "id": "bebidas",
+      "name": "Bebidas",
+      "totalEntries": 130,
+      "validEntries": 130,
+      "validUniqueWords": 130,
+      "minimumWords": 1000,
+      "missingWords": 870,
+      "meetsMinimum": false,
+      "difficulties": {
+        "easy": 70,
+        "medium": 60,
+        "hard": 0
+      },
+      "invalidEntries": [],
+      "duplicates": [],
+      "errors": [],
+      "integrityPassed": true
+    },
+    {
+      "id": "ingredientes",
+      "name": "Frutas, verduras e ingredientes",
+      "totalEntries": 160,
+      "validEntries": 160,
+      "validUniqueWords": 160,
+      "minimumWords": 1000,
+      "missingWords": 840,
+      "meetsMinimum": false,
+      "difficulties": {
+        "easy": 80,
+        "medium": 80,
+        "hard": 0
+      },
+      "invalidEntries": [],
+      "duplicates": [],
+      "errors": [],
+      "integrityPassed": true
+    },
+    {
+      "id": "animais",
+      "name": "Animais",
+      "totalEntries": 170,
+      "validEntries": 170,
+      "validUniqueWords": 170,
+      "minimumWords": 1000,
+      "missingWords": 830,
+      "meetsMinimum": false,
+      "difficulties": {
+        "easy": 70,
+        "medium": 100,
+        "hard": 0
+      },
+      "invalidEntries": [],
+      "duplicates": [],
+      "errors": [],
+      "integrityPassed": true
+    },
+    {
+      "id": "objetos",
+      "name": "Objetos do cotidiano",
+      "totalEntries": 140,
+      "validEntries": 140,
+      "validUniqueWords": 140,
+      "minimumWords": 1000,
+      "missingWords": 860,
+      "meetsMinimum": false,
+      "difficulties": {
+        "easy": 70,
+        "medium": 70,
+        "hard": 0
+      },
+      "invalidEntries": [],
+      "duplicates": [],
+      "errors": [],
+      "integrityPassed": true
+    },
+    {
+      "id": "profissoes",
+      "name": "Profissões",
+      "totalEntries": 150,
+      "validEntries": 150,
+      "validUniqueWords": 150,
+      "minimumWords": 1000,
+      "missingWords": 850,
+      "meetsMinimum": false,
+      "difficulties": {
+        "easy": 70,
+        "medium": 80,
+        "hard": 0
+      },
+      "invalidEntries": [],
+      "duplicates": [],
+      "errors": [],
+      "integrityPassed": true
+    },
+    {
+      "id": "lugares",
+      "name": "Lugares e pontos turísticos",
+      "totalEntries": 150,
+      "validEntries": 150,
+      "validUniqueWords": 150,
+      "minimumWords": 1000,
+      "missingWords": 850,
+      "meetsMinimum": false,
+      "difficulties": {
+        "easy": 70,
+        "medium": 80,
+        "hard": 0
+      },
+      "invalidEntries": [],
+      "duplicates": [],
+      "errors": [],
+      "integrityPassed": true
+    },
+    {
+      "id": "paises-cidades",
+      "name": "Países, cidades e culturas",
+      "totalEntries": 175,
+      "validEntries": 175,
+      "validUniqueWords": 175,
+      "minimumWords": 1000,
+      "missingWords": 825,
+      "meetsMinimum": false,
+      "difficulties": {
+        "easy": 75,
+        "medium": 100,
+        "hard": 0
+      },
+      "invalidEntries": [],
+      "duplicates": [],
+      "errors": [],
+      "integrityPassed": true
+    },
+    {
+      "id": "filmes",
+      "name": "Filmes",
+      "totalEntries": 150,
+      "validEntries": 150,
+      "validUniqueWords": 150,
+      "minimumWords": 1000,
+      "missingWords": 850,
+      "meetsMinimum": false,
+      "difficulties": {
+        "easy": 70,
+        "medium": 80,
+        "hard": 0
+      },
+      "invalidEntries": [],
+      "duplicates": [],
+      "errors": [],
+      "integrityPassed": true
+    },
+    {
+      "id": "series-tv",
+      "name": "Séries e programas de TV",
+      "totalEntries": 150,
+      "validEntries": 150,
+      "validUniqueWords": 150,
+      "minimumWords": 1000,
+      "missingWords": 850,
+      "meetsMinimum": false,
+      "difficulties": {
+        "easy": 70,
+        "medium": 80,
+        "hard": 0
+      },
+      "invalidEntries": [],
+      "duplicates": [],
+      "errors": [],
+      "integrityPassed": true
+    },
+    {
+      "id": "desenhos",
+      "name": "Desenhos e animações",
+      "totalEntries": 150,
+      "validEntries": 150,
+      "validUniqueWords": 150,
+      "minimumWords": 1000,
+      "missingWords": 850,
+      "meetsMinimum": false,
+      "difficulties": {
+        "easy": 70,
+        "medium": 80,
+        "hard": 0
+      },
+      "invalidEntries": [],
+      "duplicates": [],
+      "errors": [],
+      "integrityPassed": true
+    },
+    {
+      "id": "personagens",
+      "name": "Personagens fictícios",
+      "totalEntries": 176,
+      "validEntries": 176,
+      "validUniqueWords": 176,
+      "minimumWords": 1000,
+      "missingWords": 824,
+      "meetsMinimum": false,
+      "difficulties": {
+        "easy": 75,
+        "medium": 101,
+        "hard": 0
+      },
+      "invalidEntries": [],
+      "duplicates": [],
+      "errors": [],
+      "integrityPassed": true
+    },
+    {
+      "id": "personalidades",
+      "name": "Celebridades e personalidades conhecidas",
+      "totalEntries": 170,
+      "validEntries": 170,
+      "validUniqueWords": 170,
+      "minimumWords": 1000,
+      "missingWords": 830,
+      "meetsMinimum": false,
+      "difficulties": {
+        "easy": 70,
+        "medium": 100,
+        "hard": 0
+      },
+      "invalidEntries": [],
+      "duplicates": [],
+      "errors": [],
+      "integrityPassed": true
+    },
+    {
+      "id": "esportes",
+      "name": "Esportes",
+      "totalEntries": 160,
+      "validEntries": 160,
+      "validUniqueWords": 160,
+      "minimumWords": 1000,
+      "missingWords": 840,
+      "meetsMinimum": false,
+      "difficulties": {
+        "easy": 70,
+        "medium": 90,
+        "hard": 0
+      },
+      "invalidEntries": [],
+      "duplicates": [],
+      "errors": [],
+      "integrityPassed": true
+    },
+    {
+      "id": "jogos",
+      "name": "Jogos e videogames",
+      "totalEntries": 190,
+      "validEntries": 190,
+      "validUniqueWords": 190,
+      "minimumWords": 1000,
+      "missingWords": 810,
+      "meetsMinimum": false,
+      "difficulties": {
+        "easy": 70,
+        "medium": 120,
+        "hard": 0
+      },
+      "invalidEntries": [],
+      "duplicates": [],
+      "errors": [],
+      "integrityPassed": true
+    },
+    {
+      "id": "musica",
+      "name": "Música, artistas e instrumentos",
+      "totalEntries": 236,
+      "validEntries": 236,
+      "validUniqueWords": 236,
+      "minimumWords": 1000,
+      "missingWords": 764,
+      "meetsMinimum": false,
+      "difficulties": {
+        "easy": 70,
+        "medium": 166,
+        "hard": 0
+      },
+      "invalidEntries": [],
+      "duplicates": [],
+      "errors": [],
+      "integrityPassed": true
+    },
+    {
+      "id": "tecnologia",
+      "name": "Tecnologia e internet",
+      "totalEntries": 170,
+      "validEntries": 170,
+      "validUniqueWords": 170,
+      "minimumWords": 1000,
+      "missingWords": 830,
+      "meetsMinimum": false,
+      "difficulties": {
+        "easy": 70,
+        "medium": 100,
+        "hard": 0
+      },
+      "invalidEntries": [],
+      "duplicates": [],
+      "errors": [],
+      "integrityPassed": true
+    },
+    {
+      "id": "natureza",
+      "name": "Natureza e meio ambiente",
+      "totalEntries": 190,
+      "validEntries": 190,
+      "validUniqueWords": 190,
+      "minimumWords": 1000,
+      "missingWords": 810,
+      "meetsMinimum": false,
+      "difficulties": {
+        "easy": 80,
+        "medium": 110,
+        "hard": 0
+      },
+      "invalidEntries": [],
+      "duplicates": [],
+      "errors": [],
+      "integrityPassed": true
+    },
+    {
+      "id": "transportes",
+      "name": "Transportes e veículos",
+      "totalEntries": 170,
+      "validEntries": 170,
+      "validUniqueWords": 170,
+      "minimumWords": 1000,
+      "missingWords": 830,
+      "meetsMinimum": false,
+      "difficulties": {
+        "easy": 70,
+        "medium": 100,
+        "hard": 0
+      },
+      "invalidEntries": [],
+      "duplicates": [],
+      "errors": [],
+      "integrityPassed": true
+    },
+    {
+      "id": "escola",
+      "name": "Escola, faculdade e conhecimentos gerais",
+      "totalEntries": 190,
+      "validEntries": 190,
+      "validUniqueWords": 190,
+      "minimumWords": 1000,
+      "missingWords": 810,
+      "meetsMinimum": false,
+      "difficulties": {
+        "easy": 70,
+        "medium": 120,
+        "hard": 0
+      },
+      "invalidEntries": [],
+      "duplicates": [],
+      "errors": [],
+      "integrityPassed": true
+    },
+    {
+      "id": "corpo-saude",
+      "name": "Corpo humano, saúde e bem-estar",
+      "totalEntries": 200,
+      "validEntries": 200,
+      "validUniqueWords": 200,
+      "minimumWords": 1000,
+      "missingWords": 800,
+      "meetsMinimum": false,
+      "difficulties": {
+        "easy": 70,
+        "medium": 130,
+        "hard": 0
+      },
+      "invalidEntries": [],
+      "duplicates": [],
+      "errors": [],
+      "integrityPassed": true
+    },
+    {
+      "id": "moda",
+      "name": "Moda, roupas e acessórios",
+      "totalEntries": 191,
+      "validEntries": 191,
+      "validUniqueWords": 191,
+      "minimumWords": 1000,
+      "missingWords": 809,
+      "meetsMinimum": false,
+      "difficulties": {
+        "easy": 70,
+        "medium": 121,
+        "hard": 0
+      },
+      "invalidEntries": [],
+      "duplicates": [],
+      "errors": [],
+      "integrityPassed": true
+    },
+    {
+      "id": "casa",
+      "name": "Casa, móveis e decoração",
+      "totalEntries": 191,
+      "validEntries": 191,
+      "validUniqueWords": 191,
+      "minimumWords": 1000,
+      "missingWords": 809,
+      "meetsMinimum": false,
+      "difficulties": {
+        "easy": 70,
+        "medium": 121,
+        "hard": 0
+      },
+      "invalidEntries": [],
+      "duplicates": [],
+      "errors": [],
+      "integrityPassed": true
+    },
+    {
+      "id": "festas",
+      "name": "Festas, feriados e celebrações",
+      "totalEntries": 190,
+      "validEntries": 190,
+      "validUniqueWords": 190,
+      "minimumWords": 1000,
+      "missingWords": 810,
+      "meetsMinimum": false,
+      "difficulties": {
+        "easy": 70,
+        "medium": 120,
+        "hard": 0
+      },
+      "invalidEntries": [],
+      "duplicates": [],
+      "errors": [],
+      "integrityPassed": true
+    },
+    {
+      "id": "acoes",
+      "name": "Ações e verbos",
+      "totalEntries": 289,
+      "validEntries": 289,
+      "validUniqueWords": 289,
+      "minimumWords": 1000,
+      "missingWords": 711,
+      "meetsMinimum": false,
+      "difficulties": {
+        "easy": 80,
+        "medium": 209,
+        "hard": 0
+      },
+      "invalidEntries": [],
+      "duplicates": [],
+      "errors": [],
+      "integrityPassed": true
+    }
+  ],
+  "limitations": [
+    "Unicidade verificada dentro de cada tema; uma palavra pode aparecer em temas diferentes.",
+    "A verificação automática não comprova pertinência temática, familiaridade cultural, equivalência semântica ou ausência de variantes artificiais.",
+    "A classificação de dificuldade é editorial e ainda precisa de avaliação com grupos de jogadores.",
+    "O modo integrity-only não atende nem altera a exigência de 1.000 entradas por tema."
+  ]
+}

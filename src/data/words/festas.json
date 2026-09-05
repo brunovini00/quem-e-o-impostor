@@ -1,0 +1,762 @@
+[
+  {
+    "text": "Aniversário",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Festa de quinze anos",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Casamento",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Noivado",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bodas de prata",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bodas de ouro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Chá de panela",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Chá de bebê",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Chá revelação",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Batizado",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Formatura",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Baile de formatura",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Colação de grau",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Confraternização",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Amigo secreto",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Festa surpresa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Festa à fantasia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Baile de máscaras",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Festa do pijama",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Festa na piscina",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Churrasco",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Piquenique",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Luau",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Karaokê",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sarau",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Baile",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Matinê",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Quermesse",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Arraial",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Festa junina",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Festa julina",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Carnaval",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Natal",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ano-Novo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Páscoa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sexta-feira Santa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Domingo de Ramos",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Quarta-feira de Cinzas",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Corpus Christi",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dia das Mães",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dia dos Pais",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dia das Crianças",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dia dos Namorados",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dia da Mulher",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dia do Trabalhador",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dia do Professor",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dia do Estudante",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dia da Consciência Negra",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dia da Independência",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Proclamação da República",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tiradentes",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Finados",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dia de Nossa Senhora Aparecida",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dia de São João",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dia de São Pedro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dia de Santo Antônio",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dia de São Jorge",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dia de Reis",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Halloween",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dia de Ação de Graças",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dia dos Mortos",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ano-Novo Chinês",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Oktoberfest",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Festival",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Show",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Concerto",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Desfile",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bloco de carnaval",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Escola de samba",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Trio elétrico",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sambódromo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Abadá",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fantasia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Máscara",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Confete",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Serpentina",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Purpurina",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Glitter",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bandeirinha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Balão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bexiga",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Faixa de parabéns",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vela de aniversário",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bolo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Docinho",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Brigadeiro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Beijinho",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cajuzinho",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cupcake",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bem-casado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mesa de doces",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Salgadinho",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Buffet",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Convite",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lista de convidados",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lista de presentes",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lembrancinha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Presente",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Papel de presente",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Laço",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cartão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Envelope",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Buquê",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Aliança",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Véu",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Grinalda",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vestido de noiva",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Marcha nupcial",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Padrinho",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Madrinha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Daminha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pajem",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cerimonialista",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fotógrafo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "DJ",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Banda",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pista de dança",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Globo espelhado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Luz de festa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pulseira neon",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chapéu de festa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Língua de sogra",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Estalinho",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fogos de artifício",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fogueira",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Quadrilha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Correio elegante",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pescaria",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bingo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Barraca do beijo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pau de sebo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Corrida do saco",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Corrida do ovo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Touro mecânico",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tobogã inflável",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cama elástica",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Piscina de bolinhas",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mágico",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Palhaço",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pintura facial",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Escultura de balão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Algodão-doce",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pipoca",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Maçã do amor",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Canjica",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pamonha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Quentão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vinho quente",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ceia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Panetone",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rabanada",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Peru de Natal",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Árvore de Natal",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pisca-pisca",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Guirlanda",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Presépio",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Papai Noel",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Meia de Natal",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Trenó",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rena",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sino",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ovo de Páscoa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Coelho da Páscoa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Colomba pascal",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Caça aos ovos",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Procissão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Romaria",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Missa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Culto",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ação de graças",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Homenagem",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Discurso",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Brinde",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Contagem regressiva",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Abraço coletivo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chuva de arroz",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cortejo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Coroação",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Premiação",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tapete vermelho",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Festival de cinema",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Festival de música",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Festa da colheita",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Festa do Divino",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Círio de Nazaré",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lavagem do Bonfim",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bumba meu boi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Festival de Parintins",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Congada",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Folia de Reis",
+    "difficulty": "medium"
+  }
+]

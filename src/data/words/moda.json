@@ -1,0 +1,766 @@
+[
+  {
+    "text": "Camiseta",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Camisa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Blusa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Regata",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Top",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cropped",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Polo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Moletom",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Suéter",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cardigã",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Casaco",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Jaqueta",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Blazer",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Paletó",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Colete",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sobretudo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Trench coat",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Capa de chuva",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Poncho",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Quimono",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vestido",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Saia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Minissaia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Calça",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Jeans",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Legging",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bermuda",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Shorts",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Macacão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Jardineira",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Conjunto",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Terno",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Smoking",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pijama",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Camisola",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Robe",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Roupão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cueca",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Calcinha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sutiã",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cinta",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Meia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Meia-calça",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Collant",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Maiô",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Biquíni",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sunga",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Saída de praia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Canga",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Uniforme",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Avental",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Jaleco",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Roupa de banho",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Roupa de ginástica",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vestido de noiva",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Gravata",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Gravata-borboleta",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Lenço",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cachecol",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Echarpe",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Xale",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Gorro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Touca",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Boné",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Chapéu",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Boina",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Viseira",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Capuz",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Luva",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cinto",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Suspensório",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Faixa de cabelo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tiara",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Presilha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Grampo de cabelo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Elástico de cabelo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Laço",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bandana",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Turbante",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Peruca",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Brinco",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Colar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pulseira",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bracelete",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Anel",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Aliança",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pingente",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Broche",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tornozeleira",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Abotoadura",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Relógio",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Óculos de sol",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bolsa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mochila",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pochete",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Carteira",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Clutch",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Necessaire",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sacola",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mala",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Porta-cartões",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tênis",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sapato",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sandália",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chinelo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sapatilha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rasteirinha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bota",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Coturno",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Galocha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mocassim",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Alpargata",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Scarpin",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tamanco",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pantufa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chuteira",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Salto alto",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Salto agulha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Salto plataforma",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Salto anabela",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cadarço",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Palmilha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sola",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fivela",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Zíper",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Botão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Colchete",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Velcro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ilhós",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bolso",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Gola",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Punho",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Manga",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Barra",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Decote",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fenda",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Babado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pregas",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Plissado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Renda",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bordado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lantejoula",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Paetê",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Franja",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Estampa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Listra",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Xadrez",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Poá",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Floral",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Animal print",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tie-dye",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Degradê",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Algodão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Linho",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Seda",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lã",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Couro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Camurça",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Veludo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cetim",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tule",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Organza",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chiffon",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Malha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tricô",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Crochê",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Jeans rasgado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Calça cargo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Calça pantalona",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Calça pantacourt",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Calça flare",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Saia lápis",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Saia evasê",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vestido tubinho",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vestido longo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Manga bufante",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Gola alta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Gola canoa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Gola V",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ombreira",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Modelagem",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Costura",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Alta-costura",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Prêt-à-porter",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Moda sustentável",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Brechó",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Desfile",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Passarela",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Manequim",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Provador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Etiqueta",
+    "difficulty": "medium"
+  }
+]

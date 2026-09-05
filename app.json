@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "Impostor",
+    "slug": "impostor",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#14151B"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.bruno.impostor",
+      "config": { "usesNonExemptEncryption": false }
+    },
+    "android": {
+      "package": "com.bruno.impostor",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#B7A1F8"
+      },
+      "blockedPermissions": [
+        "android.permission.RECORD_AUDIO",
+        "android.permission.READ_MEDIA_IMAGES",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE"
+      ]
+    },
+    "web": { "favicon": "./assets/favicon.png", "name": "Impostor" },
+    "plugins": [
+      [
+        "expo-audio",
+        {
+          "microphonePermission": false,
+          "recordAudioAndroid": false,
+          "enableBackgroundPlayback": false
+        }
+      ]
+    ]
+  }
+}

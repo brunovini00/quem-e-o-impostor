@@ -1,0 +1,602 @@
+[
+  {
+    "text": "Tom e Jerry",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pica-Pau",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Looney Tunes",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pernalonga",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Popeye",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Betty Boop",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Os Flintstones",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Os Jetsons",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Scooby-Doo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Zé Colmeia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Manda-Chuva",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Corrida Maluca",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Os Smurfs",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Garfield",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Snoopy",
+    "difficulty": "easy"
+  },
+  {
+    "text": "A Pantera Cor-de-Rosa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Inspetor Bugiganga",
+    "difficulty": "easy"
+  },
+  {
+    "text": "He-Man",
+    "difficulty": "easy"
+  },
+  {
+    "text": "She-Ra",
+    "difficulty": "easy"
+  },
+  {
+    "text": "ThunderCats",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Caverna do Dragão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Transformers",
+    "difficulty": "easy"
+  },
+  {
+    "text": "As Tartarugas Ninja",
+    "difficulty": "easy"
+  },
+  {
+    "text": "DuckTales",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tico e Teco: Defensores da Lei",
+    "difficulty": "easy"
+  },
+  {
+    "text": "A Turma do Pateta",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Darkwing Duck",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Doug",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rugrats: Os Anjinhos",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Hey Arnold!",
+    "difficulty": "easy"
+  },
+  {
+    "text": "CatDog",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Os Thornberrys",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rocket Power",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bob Esponja",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Os Padrinhos Mágicos",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Jimmy Neutron",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Danny Phantom",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Avatar: A Lenda de Aang",
+    "difficulty": "easy"
+  },
+  {
+    "text": "A Lenda de Korra",
+    "difficulty": "easy"
+  },
+  {
+    "text": "As Meninas Superpoderosas",
+    "difficulty": "easy"
+  },
+  {
+    "text": "O Laboratório de Dexter",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Johnny Bravo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "A Vaca e o Frango",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Coragem, o Cão Covarde",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Du, Dudu e Edu",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Samurai Jack",
+    "difficulty": "easy"
+  },
+  {
+    "text": "As Terríveis Aventuras de Billy e Mandy",
+    "difficulty": "easy"
+  },
+  {
+    "text": "A Mansão Foster para Amigos Imaginários",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ben 10",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Os Jovens Titãs",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Hora de Aventura",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Apenas um Show",
+    "difficulty": "easy"
+  },
+  {
+    "text": "O Incrível Mundo de Gumball",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Steven Universo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Clarêncio, o Otimista",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ursos sem Curso",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dragon Ball",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dragon Ball Z",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pokémon",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Digimon",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Yu-Gi-Oh!",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Naruto",
+    "difficulty": "easy"
+  },
+  {
+    "text": "One Piece",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Os Cavaleiros do Zodíaco",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sailor Moon",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cardcaptor Sakura",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Turma da Mônica",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Peppa Pig",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Patrulha Canina",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bluey",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mundo Bita",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Galinha Pintadinha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "O Show da Luna!",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Peixonauta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Irmão do Jorel",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Historietas Assombradas para Crianças Malcriadas",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tromba Trem",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Oswaldo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sítio do Picapau Amarelo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Meu Amigãozão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Doki",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pocoyo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Caillou",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dora, a Aventureira",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Go, Diego, Go!",
+    "difficulty": "medium"
+  },
+  {
+    "text": "As Pistas de Blue",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Backyardigans",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Thomas e Seus Amigos",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bob, o Construtor",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Masha e o Urso",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Miraculous: As Aventuras de Ladybug",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Winx Club",
+    "difficulty": "medium"
+  },
+  {
+    "text": "W.I.T.C.H.",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Três Espiãs Demais",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Kim Possible",
+    "difficulty": "medium"
+  },
+  {
+    "text": "American Dragon: Jake Long",
+    "difficulty": "medium"
+  },
+  {
+    "text": "As Aventuras de Jackie Chan",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pepe Legal",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Hora do Recreio",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Os Camundongos Aventureiros",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Phineas e Ferb",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Gravity Falls",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Star vs. as Forças do Mal",
+    "difficulty": "medium"
+  },
+  {
+    "text": "A Casa Coruja",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Amphibia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Enrolados Outra Vez",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Elena de Avalor",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Princesinha Sofia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Doutora Brinquedos",
+    "difficulty": "medium"
+  },
+  {
+    "text": "A Casa do Mickey Mouse",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Muppet Babies",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Os Sete Monstrinhos",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Arthur",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Clifford",
+    "difficulty": "medium"
+  },
+  {
+    "text": "O Pequeno Urso",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Franklin",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Babar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rupert",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Blinky Bill",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bananas de Pijamas",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Os Simpsons",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Futurama",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bob's Burgers",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rick and Morty",
+    "difficulty": "medium"
+  },
+  {
+    "text": "BoJack Horseman",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Archer",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Invencível",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Arcane",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Castlevania",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Samurai de Olhos Azuis",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Death Note",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fullmetal Alchemist",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Attack on Titan",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Demon Slayer",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Jujutsu Kaisen",
+    "difficulty": "medium"
+  },
+  {
+    "text": "My Hero Academia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Hunter x Hunter",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bleach",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Yu Yu Hakusho",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Inuyasha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Shaman King",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Beyblade",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Super Onze",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Haikyu!!",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Spy x Family",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sonic X",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mega Man",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Kirby",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Super Choque",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Liga da Justiça",
+    "difficulty": "medium"
+  }
+]

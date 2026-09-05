@@ -1,0 +1,602 @@
+[
+  {
+    "text": "Praia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Parque",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Praça",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Jardim botânico",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Zoológico",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Aquário",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Museu",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Biblioteca",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cinema",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Teatro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Estádio",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Shopping",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Feira",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mercado",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Restaurante",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cafeteria",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Padaria",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sorveteria",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Hotel",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pousada",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Resort",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Acampamento",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Aeroporto",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rodoviária",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Estação de trem",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Porto",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Hospital",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Escola",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Universidade",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Igreja",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Catedral",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mosteiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Castelo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Palácio",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Fazenda",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sítio",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Chácara",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Floresta",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cachoeira",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Montanha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mirante",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Caverna",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ilha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Lago",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rio",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Deserto",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vulcão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Farol",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ponte",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Túnel",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cristo Redentor",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pão de Açúcar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Copacabana",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ipanema",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Maracanã",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Escadaria Selarón",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Arcos da Lapa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Jardim Botânico do Rio",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Parque Ibirapuera",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Avenida Paulista",
+    "difficulty": "easy"
+  },
+  {
+    "text": "MASP",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mercado Municipal de São Paulo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Catedral da Sé",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Beco do Batman",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pelourinho",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Elevador Lacerda",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Farol da Barra",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Praia do Forte",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Porto de Galinhas",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Praia de Boa Viagem",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Fernando de Noronha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lençóis Maranhenses",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Jericoacoara",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Canoa Quebrada",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cataratas do Iguaçu",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Parque das Aves",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Jalapão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chapada Diamantina",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chapada dos Veadeiros",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chapada dos Guimarães",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Monte Roraima",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Encontro das Águas",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Teatro Amazonas",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ver-o-Peso",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Alter do Chão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ilha do Marajó",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Maragogi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Praia de Pipa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dunas de Genipabu",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Praia de Tambaba",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Serra do Cipó",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Parque Nacional do Itatiaia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Serra da Capivara",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Serra do Rio do Rastro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cânion do Itaimbezinho",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ilha do Campeche",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Praia da Joaquina",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lago Negro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vale dos Vinhedos",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lago de Furnas",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Gruta do Lago Azul",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Praça dos Três Poderes",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Congresso Nacional",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Catedral de Brasília",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Santuário de Aparecida",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Inhotim",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Torre Eiffel",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Museu do Louvre",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Arco do Triunfo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Catedral de Notre-Dame",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Palácio de Versalhes",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Coliseu",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Torre de Pisa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fontana di Trevi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Basílica de São Pedro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Big Ben",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Palácio de Buckingham",
+    "difficulty": "medium"
+  },
+  {
+    "text": "London Eye",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Stonehenge",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sagrada Família",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Alhambra",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Torre de Belém",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mosteiro dos Jerónimos",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Acrópole de Atenas",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Grande Muralha da China",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cidade Proibida",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Taj Mahal",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Petra",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pirâmides de Gizé",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Monte Fuji",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Angkor Wat",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Burj Khalifa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Estátua da Liberdade",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Times Square",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Central Park",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ponte Golden Gate",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Grand Canyon",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Parque Yellowstone",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Hollywood",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Walt Disney World",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chichén Itzá",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Machu Picchu",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ilha de Páscoa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Deserto do Atacama",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Salar de Uyuni",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Glaciar Perito Moreno",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ópera de Sydney",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Grande Barreira de Corais",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Monte Kilimanjaro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cataratas Vitória",
+    "difficulty": "medium"
+  }
+]

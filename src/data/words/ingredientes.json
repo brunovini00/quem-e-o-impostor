@@ -1,0 +1,642 @@
+[
+  {
+    "text": "Maçã",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Banana",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Laranja",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Limão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Morango",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Uva",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Abacaxi",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Melancia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Melão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mamão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Manga",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pera",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pêssego",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ameixa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cereja",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Kiwi",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Abacate",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Maracujá",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Goiaba",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Caju",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Acerola",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Coco",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Jabuticaba",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pitanga",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tangerina",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Caqui",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Figo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Jaca",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Framboesa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Amora",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mirtilo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Romã",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Alface",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tomate",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cenoura",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Batata",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Batata-doce",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mandioca",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Beterraba",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cebola",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Alho",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pepino",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Abobrinha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Berinjela",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Abóbora",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Chuchu",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Brócolis",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Couve-flor",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Couve",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Repolho",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Espinafre",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rúcula",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Agrião",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vagem",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ervilha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Milho",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pimentão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Quiabo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Salsinha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cebolinha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Coentro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Manjericão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Hortelã",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Alecrim",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Orégano",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Louro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Gengibre",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pimenta-do-reino",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pimenta",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sal",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Açúcar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Farinha de trigo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Fubá",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Amido de milho",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Fermento",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Óleo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Azeite",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vinagre",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Manteiga",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Margarina",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Açaí",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cupuaçu",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Graviola",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Carambola",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lichia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tamarindo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Physalis",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Damasco",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tâmara",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Nectarina",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pitaya",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Seriguela",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Umbu",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pequi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Inhame",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cará",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Nabo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rabanete",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Alho-poró",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Salsão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Aspargo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Alcachofra",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Endívia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Escarola",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chicória",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Palmito",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Brotos de feijão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Grão-de-bico",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lentilha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Soja",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Quinoa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Aveia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cevada",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Centeio",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Arroz integral",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Feijão-preto",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Feijão-branco",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Castanha-do-pará",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Castanha de caju",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Noz",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Amêndoa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Avelã",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pistache",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Amendoim",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Gergelim",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Linhaça",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Semente de abóbora",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Canela",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cravo-da-índia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Noz-moscada",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cominho",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cúrcuma",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Páprica",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Curry",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tomilho",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sálvia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mostarda",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ketchup",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Maionese",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Molho de soja",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Molho inglês",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Extrato de tomate",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Creme de leite",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Leite condensado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Requeijão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ricota",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Muçarela",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Parmesão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Gorgonzola",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chocolate em pó",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cacau",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Baunilha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mel",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Melado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Gelatina sem sabor",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cogumelo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Champignon",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Shiitake",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Shimeji",
+    "difficulty": "medium"
+  }
+]

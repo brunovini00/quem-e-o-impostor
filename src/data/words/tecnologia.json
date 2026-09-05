@@ -1,0 +1,682 @@
+[
+  {
+    "text": "Computador",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Notebook",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tablet",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Celular",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Smartphone",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Smartwatch",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Televisão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Monitor",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Teclado",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mouse",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Touchpad",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Webcam",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Microfone",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Caixa de som",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Fone de ouvido",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Impressora",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Scanner",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Projetor",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Roteador",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Modem",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Antena",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cabo USB",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Carregador",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bateria",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pilha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tomada",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Adaptador",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pen drive",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cartão de memória",
+    "difficulty": "easy"
+  },
+  {
+    "text": "HD externo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Controle remoto",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Controle de videogame",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Console",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Câmera digital",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Drone",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Robô",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Calculadora",
+    "difficulty": "easy"
+  },
+  {
+    "text": "GPS",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Internet",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Wi-Fi",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bluetooth",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rede social",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Site",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Blog",
+    "difficulty": "easy"
+  },
+  {
+    "text": "E-mail",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mensagem",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Chamada de vídeo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Podcast",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Streaming",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vídeo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Foto",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Meme",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Emoji",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Figurinha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "GIF",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Hashtag",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Link",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Perfil",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Avatar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Feed",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Story",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Reels",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Curtida",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Comentário",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Compartilhamento",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Seguidor",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Influenciador",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Canal",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Playlist",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Notificação",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Aplicativo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Navegador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Buscador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sistema operacional",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Área de trabalho",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pasta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Arquivo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Atalho",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lixeira",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Download",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Upload",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Instalação",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Atualização",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Senha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Login",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Logout",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cadastro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Autenticação",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Código QR",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Código de barras",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Nuvem",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Backup",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sincronização",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Modo avião",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Modo escuro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tela sensível ao toque",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Biometria",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Reconhecimento facial",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Leitor de impressão digital",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Assistente virtual",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Inteligência artificial",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chatbot",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Realidade virtual",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Realidade aumentada",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Impressão 3D",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Casa inteligente",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Automação",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Algoritmo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Programação",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Código-fonte",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Banco de dados",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Planilha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Editor de texto",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Apresentação",
+    "difficulty": "medium"
+  },
+  {
+    "text": "PDF",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Captura de tela",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Compartilhamento de tela",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Histórico de navegação",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Favoritos",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Aba do navegador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Janela anônima",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cookie",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cache",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Firewall",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Antivírus",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vírus de computador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Spam",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Phishing",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Criptografia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "VPN",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Servidor",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Processador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Memória RAM",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Placa de vídeo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Placa-mãe",
+    "difficulty": "medium"
+  },
+  {
+    "text": "SSD",
+    "difficulty": "medium"
+  },
+  {
+    "text": "HDMI",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ethernet",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fibra óptica",
+    "difficulty": "medium"
+  },
+  {
+    "text": "5G",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Código aberto",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Licença de software",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Repositório",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Git",
+    "difficulty": "medium"
+  },
+  {
+    "text": "HTML",
+    "difficulty": "medium"
+  },
+  {
+    "text": "CSS",
+    "difficulty": "medium"
+  },
+  {
+    "text": "JavaScript",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Python",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bug",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Depuração",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pix",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Carteira digital",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pagamento por aproximação",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Comércio eletrônico",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Carrinho de compras",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Marketplace",
+    "difficulty": "medium"
+  },
+  {
+    "text": "WhatsApp",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Instagram",
+    "difficulty": "medium"
+  },
+  {
+    "text": "TikTok",
+    "difficulty": "medium"
+  },
+  {
+    "text": "YouTube",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Facebook",
+    "difficulty": "medium"
+  },
+  {
+    "text": "LinkedIn",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Discord",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Reddit",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Telegram",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Spotify",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Netflix",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Twitch",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Google Maps",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Wikipédia",
+    "difficulty": "medium"
+  }
+]

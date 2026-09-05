@@ -1,0 +1,642 @@
+[
+  {
+    "text": "Futebol",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Futsal",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Futebol de areia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vôlei",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vôlei de praia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Basquete",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Handebol",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tênis",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tênis de mesa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Badminton",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Golfe",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Beisebol",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Softbol",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Futebol americano",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rúgbi",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Hóquei",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Críquete",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Natação",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Polo aquático",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Saltos ornamentais",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Surfe",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Skate",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Patinação",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ciclismo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bicicross",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mountain bike",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Corrida",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Maratona",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Atletismo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Salto em altura",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Salto em distância",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Salto com vara",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Arremesso de peso",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Lançamento de disco",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Lançamento de dardo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Revezamento",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Triatlo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ginástica artística",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ginástica rítmica",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ginástica de trampolim",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Judô",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Caratê",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Taekwondo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Boxe",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Jiu-jítsu",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Capoeira",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Muay thai",
+    "difficulty": "easy"
+  },
+  {
+    "text": "MMA",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Luta olímpica",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Esgrima",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tiro com arco",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tiro esportivo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Hipismo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Remo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Canoagem",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vela",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Escalada",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Esqui",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Snowboard",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Curling",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Biatlo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Patinação artística",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bobsled",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Levantamento de peso",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Fisiculturismo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Boliche",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sinuca",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Xadrez",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Damas",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tênis de praia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Futevôlei",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Futebol de botão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Peteca",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Queimada",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pádel",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Squash",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Parkour",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Slackline",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rafting",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Windsurfe",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Kitesurfe",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Stand up paddle",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bodyboard",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mergulho",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Paraquedismo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Asa-delta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Parapente",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Automobilismo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fórmula 1",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Kart",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Motocross",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Motovelocidade",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rali",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Enduro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Orientação",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pentatlo moderno",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Decatlo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Heptatlo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Marcha atlética",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Nado sincronizado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Maratona aquática",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Futebol de cegos",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Goalball",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bocha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Basquete em cadeira de rodas",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vôlei sentado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Halterofilismo paralímpico",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Triatlo paralímpico",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bola",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chuteira",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Trave",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rede",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Raquete",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Luva de boxe",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Kimono",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tatame",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pódio",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Medalha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Troféu",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Apito",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cartão amarelo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cartão vermelho",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pênalti",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Escanteio",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Impedimento",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Gol",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cesta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Saque",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cortada",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bloqueio",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Drible",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Passe",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Finta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Defesa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rebote",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Nocaute",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Prorrogação",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Disputa de pênaltis",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bateria de surfe",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pista de corrida",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Quadra",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Piscina olímpica",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Velódromo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Campo de golfe",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Estádio",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vestiário",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Torcida",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Capitão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Árbitro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Treinador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Goleiro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Atacante",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Zagueiro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Levantador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Líbero",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pivô",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Armador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Triatleta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Decatleta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Nadador",
+    "difficulty": "medium"
+  }
+]

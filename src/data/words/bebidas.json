@@ -1,0 +1,522 @@
+[
+  {
+    "text": "Água",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Água com gás",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Água de coco",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Água tônica",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Refrigerante",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Guaraná",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Limonada",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Limonada suíça",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Suco de laranja",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Suco de uva",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Suco de maçã",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Suco de abacaxi",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Suco de maracujá",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Suco de manga",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Suco de goiaba",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Suco de melancia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Suco de acerola",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Suco de caju",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Suco de limão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Suco de morango",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Suco de pêssego",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Suco de tomate",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Suco verde",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Caldo de cana",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Café",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Café com leite",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Café expresso",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Café descafeinado",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cappuccino",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Chocolate quente",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Achocolatado",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Leite",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Leite de soja",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Leite de amêndoas",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Leite de aveia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Leite de coco",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Iogurte líquido",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Leite fermentado",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vitamina de banana",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vitamina de abacate",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vitamina de mamão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Milk-shake",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Chá gelado",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Chá de camomila",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Chá de hortelã",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Chá de erva-doce",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Chá de erva-cidreira",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Chá de boldo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Chá preto",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Chá verde",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Chá-mate",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Chimarrão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tereré",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Energético",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Isotônico",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cerveja",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Chope",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vinho tinto",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vinho branco",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Espumante",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Champanhe",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sidra",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Caipirinha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Batida de coco",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Quentão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vinho quente",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Licor",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cachaça",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vodca",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Uísque",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rum",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Gim",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tequila",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Conhaque",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Saquê",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vermute",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vinho rosé",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vinho do Porto",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cerveja sem álcool",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Hidromel",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Kombucha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Kefir",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Smoothie",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Frapê",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Frappuccino",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mocha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Latte",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Macchiato",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Café americano",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Café turco",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Café coado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Café gelado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cold brew",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Affogato",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Irish coffee",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chá de hibisco",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chá de gengibre",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chá de jasmim",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chá branco",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Matcha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bubble tea",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Chai latte",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ponche",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sangria",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Clericot",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mojito",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Piña colada",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Daiquiri",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Margarita",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cosmopolitan",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dry martini",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Negroni",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Aperol spritz",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bloody Mary",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cuba libre",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Gin-tônica",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Caipirosca",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pisco sour",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Alexander",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bellini",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mimosa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Caju amigo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rabo de galo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Amarula",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Aperitivo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lassi",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Groselha",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Orzata",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Refresco",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Aluá",
+    "difficulty": "medium"
+  }
+]

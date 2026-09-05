@@ -1,0 +1,602 @@
+[
+  {
+    "text": "Professor",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Médico",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Enfermeiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dentista",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Veterinário",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Farmacêutico",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Psicólogo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Nutricionista",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Fisioterapeuta",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bombeiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Policial",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Guarda municipal",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Carteiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Motorista",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Taxista",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Caminhoneiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Motoboy",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Piloto",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Comissário de bordo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Maquinista",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Marinheiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pescador",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Agricultor",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pecuarista",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Jardineiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pedreiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Carpinteiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Marceneiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Eletricista",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Encanador",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pintor",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mecânico",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Borracheiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Funileiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Soldador",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Serralheiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vidraceiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Chaveiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sapateiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Costureiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Alfaiate",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cabeleireiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Barbeiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Manicure",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Esteticista",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Maquiador",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cozinheiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Chef de cozinha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Padeiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Confeiteiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Açougueiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Garçom",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Barista",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Barman",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vendedor",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Caixa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Repositor",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Estoquista",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Gerente",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Recepcionista",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Secretário",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Porteiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Zelador",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Vigilante",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Faxineiro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Gari",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Babá",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cuidador de idosos",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Guia de turismo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tradutor",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Intérprete",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Jornalista",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Repórter",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Apresentador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Radialista",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Locutor",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fotógrafo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cinegrafista",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Editor de vídeo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Diretor de cinema",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Roteirista",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ator",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dublador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cantor",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Músico",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Compositor",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Maestro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dançarino",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Coreógrafo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Artista plástico",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Escultor",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ilustrador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Designer gráfico",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Arquiteto",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Urbanista",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Engenheiro civil",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Engenheiro de software",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Programador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Analista de sistemas",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Técnico em informática",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Técnico de som",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Técnico de enfermagem",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Técnico de laboratório",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bibliotecário",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Historiador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Geógrafo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Biólogo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Químico",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Físico",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Matemático",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pesquisador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Astrônomo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Meteorologista",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Arqueólogo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Geólogo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Oceanógrafo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Advogado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Juiz",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Promotor de justiça",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Defensor público",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Contador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Economista",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Administrador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Corretor de imóveis",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Corretor de seguros",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bancário",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Auditor",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Perito criminal",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Delegado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Diplomata",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Agente de viagens",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Organizador de eventos",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cerimonialista",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Produtor cultural",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Atleta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Treinador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Árbitro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Salva-vidas",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Mergulhador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Instrutor de autoescola",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Personal trainer",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Terapeuta ocupacional",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fonoaudiólogo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Assistente social",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pedagogo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Optometrista",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tosador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Adestrador",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Apicultor",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Silvicultor",
+    "difficulty": "medium"
+  }
+]

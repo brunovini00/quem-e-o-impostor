@@ -1,0 +1,802 @@
+[
+  {
+    "text": "Cabeça",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cabelo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Testa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rosto",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Olho",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sobrancelha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cílio",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pálpebra",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Orelha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Nariz",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bochecha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Boca",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Lábio",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dente",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Gengiva",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Língua",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Queixo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mandíbula",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pescoço",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Garganta",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Nuca",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Ombro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Braço",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cotovelo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Antebraço",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pulso",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Mão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dedo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Polegar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Unha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Peito",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Seio",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Costela",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Costas",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Coluna",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Barriga",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Umbigo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cintura",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Quadril",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Nádega",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Perna",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Coxa",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Joelho",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Panturrilha",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Canela",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tornozelo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Calcanhar",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pé",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sola do pé",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Dedão do pé",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pele",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Osso",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Músculo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Tendão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Articulação",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Coração",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pulmão",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Cérebro",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Estômago",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Intestino",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Fígado",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Rim",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Bexiga",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Sangue",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Veia",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Artéria",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Nervo",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Respiração",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Batimento cardíaco",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Pulsação",
+    "difficulty": "easy"
+  },
+  {
+    "text": "Esqueleto",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Crânio",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Clavícula",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Escápula",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Esterno",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pelve",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fêmur",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tíbia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Patela",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Úmero",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cartilagem",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ligamento",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Medula",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Diafragma",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Traqueia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Laringe",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Faringe",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Esôfago",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pâncreas",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Baço",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Apêndice",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vesícula biliar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tireoide",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Retina",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Íris",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pupila",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Córnea",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tímpano",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cóclea",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cordas vocais",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Saliva",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lágrima",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Suor",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Digestão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Circulação",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Metabolismo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Imunidade",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Hormônio",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Reflexo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Equilíbrio",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Visão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Audição",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Olfato",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Paladar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tato",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sono",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sonho",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Bocejo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Espreguiçamento",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Soluço",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Espirro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tosse",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Febre",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dor de cabeça",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dor de garganta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Dor muscular",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Câimbra",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Contusão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Hematoma",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Arranhão",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cicatriz",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fratura",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Torção",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Queimadura",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Alergia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Resfriado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Gripe",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Rinite",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sinusite",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Asma",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Otite",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Conjuntivite",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Cárie",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Gengivite",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Miopia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Astigmatismo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Hipermetropia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Acne",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Vacina",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Consulta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Exame de sangue",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Raio X",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ultrassom",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tomografia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ressonância magnética",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Eletrocardiograma",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Estetoscópio",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Termômetro",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Seringa",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Curativo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Gaze",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Esparadrapo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Muleta",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Tipoia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Gesso",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Órtese",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Prótese",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Óculos",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Aparelho auditivo",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Aparelho ortodôntico",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Escova de dentes",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fio dental",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Protetor solar",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Repelente",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Sabonete",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Álcool em gel",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Máscara",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Higiene",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Banho",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Hidratação",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Alimentação equilibrada",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Descanso",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Alongamento",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Caminhada",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Corrida",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Natação",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Ioga",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Pilates",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Meditação",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Massagem",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Fisioterapia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Terapia",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Saúde mental",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Autoestima",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Autocuidado",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Lazer",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Convivência",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Acolhimento",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Primeiros socorros",
+    "difficulty": "medium"
+  },
+  {
+    "text": "Doação de sangue",
+    "difficulty": "medium"
+  }
+]
