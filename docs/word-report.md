@@ -1,6 +1,6 @@
 # Relatório dos bancos de palavras
 
-Validação executada no modo: **required-minimum**.
+Validação executada no modo: **integrity-only**.
 
 Meta aprovada: **1000 entradas válidas e únicas em cada um dos 25 temas**.
 
@@ -49,4 +49,4 @@ A origem, o método editorial e as opções de ampliação estão em [content-no
 
 Nenhum erro global de estrutura.
 
-O build de produção deve continuar bloqueado enquanto algum tema estiver abaixo da meta ou houver erro de integridade. Não há autorização registrada para reduzir o mínimo.
+A meta de 1.000 entradas por tema permanece pendente. A publicação web do banco inicial foi autorizada pelo usuário e exige integridade aprovada; o build completo e a validação estrita continuam exigindo a meta original.

@@ -10,7 +10,7 @@ Um celular, uma palavra secreta e alguém tentando disfarçar. Jogo presencial e
 
 O aplicativo tem o fluxo completo, armazenamento local, temas claros e escuros e proteção da revelação. Os **25 temas estão implementados com um banco editorial inicial**; a exigência original de **1.000 entradas por tema ainda não foi atendida**. Consulte as contagens verificadas e os déficits em [docs/word-report.md](docs/word-report.md).
 
-O comando `pnpm build` e o controle de conteúdo da integração contínua bloqueiam a entrega enquanto algum tema aprovado estiver abaixo de 1.000. `pnpm export:check` verifica separadamente se o código compila; essa exportação **não representa aprovação do conteúdo**.
+O usuário autorizou publicar no Netlify esta primeira edição web com **4.368 entradas**, mantendo a expansão para **1.000 por tema** como pendência. A publicação web exige integridade dos bancos. `pnpm words:validate`, `pnpm build`, `pnpm check` e a preparação de builds nativos continuam exigindo a meta completa. Na integração contínua, erros de integridade bloqueiam o fluxo; a verificação da meta de quantidade permanece visível como etapa informativa com `continue-on-error`. `pnpm export:check` verifica separadamente se o código compila, sem aprovar a quantidade de conteúdo.
 
 Resultados executados, limitações e evidências: [docs/verification.md](docs/verification.md).
 
@@ -49,26 +49,29 @@ Se o `npm` no Windows apontar para uma instalação antiga, use o pnpm disponív
 
 ### Offline
 
-O aplicativo nativo instalado contém todas as palavras, ícones e o som. Não exige conta, servidor, analytics, API nem banco remoto. O Expo Go em desenvolvimento precisa do Metro para carregar o projeto; **o comportamento offline definitivo é o do aplicativo compilado e instalado**. A versão web é uma ferramenta de prévia e testes, sem service worker para instalação offline.
+O aplicativo nativo instalado contém todas as palavras, ícones e o som. Não exige conta, servidor, analytics, API nem banco remoto. O Expo Go em desenvolvimento precisa do Metro para carregar o projeto; **o comportamento offline definitivo é o do aplicativo compilado e instalado**. A versão web permite jogar pelo navegador do celular, mas não tem service worker para instalação ou recarregamento offline.
 
 ## Comandos de qualidade
 
-| Comando                | Verificação                                                          |
-| ---------------------- | -------------------------------------------------------------------- |
-| `pnpm typecheck`       | TypeScript estrito e acesso seguro a índices                         |
-| `pnpm lint`            | ESLint, incluindo regras de hooks                                    |
-| `pnpm format:check`    | Formatação Prettier                                                  |
-| `pnpm test`            | Domínio, sorteio, armazenamento e validador dos bancos               |
-| `pnpm test:ui`         | Componentes, passagem privada e ciclo de vida                        |
-| `pnpm words:integrity` | Estrutura, entradas válidas e duplicatas; não aprova a meta de 1.000 |
-| `pnpm words:validate`  | Relatório e exigência de pelo menos 1.000 por tema                   |
-| `pnpm export:check`    | Exportação de produção Android, iOS e web                            |
-| `pnpm test:e2e`        | Fluxo Playwright contra a exportação web local                       |
-| `pnpm build`           | Validação obrigatória de palavras seguida da exportação              |
-| `pnpm check`           | Tipos, lint, formatação, testes e conteúdo obrigatório               |
-| `pnpm assets:generate` | Recria ícones e o breve sinal sonoro a partir de código próprio      |
+| Comando                | Verificação                                                                  |
+| ---------------------- | ---------------------------------------------------------------------------- |
+| `pnpm typecheck`       | TypeScript estrito e acesso seguro a índices                                 |
+| `pnpm lint`            | ESLint, incluindo regras de hooks                                            |
+| `pnpm format:check`    | Formatação Prettier                                                          |
+| `pnpm test`            | Domínio, sorteio, armazenamento e validador dos bancos                       |
+| `pnpm test:ui`         | Componentes, passagem privada e ciclo de vida                                |
+| `pnpm words:integrity` | Estrutura, entradas válidas e duplicatas; não aprova a meta de 1.000         |
+| `pnpm words:validate`  | Relatório e exigência de pelo menos 1.000 por tema                           |
+| `pnpm export:check`    | Exportação de produção Android, iOS e web                                    |
+| `pnpm test:e2e`        | Fluxo Playwright contra a exportação web local                               |
+| `pnpm build`           | Validação obrigatória de palavras seguida da exportação                      |
+| `pnpm build:web`       | Integridade dos bancos, exportação web e preparação de assets para o Netlify |
+| `pnpm check`           | Tipos, lint, formatação, testes e conteúdo obrigatório                       |
+| `pnpm assets:generate` | Recria ícones e o breve sinal sonoro a partir de código próprio              |
 
 Antes dos testes ponta a ponta, execute `pnpm export:check`. No Windows eles utilizam o Chrome instalado. Em outros sistemas, instale o navegador de testes com `pnpm exec playwright install chromium`. O servidor de testes escuta somente em `127.0.0.1:4173`.
+
+Para verificar uma publicação existente, defina `E2E_BASE_URL` com a URL HTTPS e execute `pnpm test:e2e`. Nesse modo o Playwright testa o site remoto, sem iniciar o servidor local, e salva capturas em `test-results/deployed-screenshots`.
 
 Os testes de sorteio usam uma fonte determinística injetável para reprodutibilidade. O aplicativo usa `expo-crypto`, amostragem por rejeição e Fisher–Yates, evitando o viés do resto da divisão. Os testes verificam distribuição grosseira, sem substituir a fonte aleatória do aplicativo.
 
@@ -132,6 +135,16 @@ Veja [CONTRIBUTING.md](CONTRIBUTING.md) e [docs/content-notes.md](docs/content-n
 
 Não use números de preenchimento, variações artificiais, duplicatas com acentos diferentes nem material de terceiros sem licença compatível. Cadastre novos temas no catálogo e em `themes.ts`, e execute as duas validações. O relatório de contagem é gerado automaticamente.
 
+## Netlify
+
+O arquivo `netlify.toml` define Node 22, `pnpm run build:web` e a pasta de publicação `dist`. O comando executa `pnpm words:integrity`, exporta somente a versão web e prepara os assets com `scripts/prepare-netlify.mjs`. Entradas inválidas, duplicatas dentro de um tema e inconsistências no catálogo continuam impedindo a publicação.
+
+Após exportar, `scripts/prepare-netlify.mjs` copia assets localizados em diretórios ocultos, como a fonte de ícones dentro de `.pnpm`, para caminhos públicos estáveis e atualiza suas referências. Isso evita que o filtro de arquivos do Netlify omita os ícones.
+
+Em 5 de setembro de 2026, o usuário confirmou expressamente a publicação desta edição web com 4.368 entradas nos 25 temas para acesso pelo celular. A meta original de 25.000 entradas permanece pendente, com déficit de 20.632. O relatório mantém `strictPassed: false`; a autorização da edição web não declara a meta atendida nem libera builds nativos abaixo dela. O resultado do deploy e da verificação pela URL HTTPS deve ser registrado em [docs/verification.md](docs/verification.md).
+
+Referências: [exportação web do Expo](https://docs.expo.dev/guides/publishing-websites/) e [configuração por arquivo do Netlify](https://docs.netlify.com/build/configure-builds/file-based-configuration/).
+
 ## Builds Android e iOS
 
 Os perfis `development`, `preview` e `production` estão em `eas.json`. Esta entrega não cria conta Expo, projeto remoto, build na nuvem nem publicação automaticamente.
@@ -169,7 +182,7 @@ git diff
 pnpm check
 ```
 
-O envio do código não elimina a pendência editorial: a validação de conteúdo continua reprovando temas com menos de 1.000 entradas. Consulte as [execuções do GitHub Actions](https://github.com/brunovini00/quem-e-o-impostor/actions) para o resultado remoto. Não houve publicação em lojas nem geração de APK/IPA nesta etapa.
+O envio do código não elimina a pendência editorial: `pnpm words:validate` continua reprovando temas com menos de 1.000 entradas. No GitHub Actions, essa meta é informativa e a integridade dos bancos permanece obrigatória, conforme a autorização da primeira edição web. Consulte as [execuções do GitHub Actions](https://github.com/brunovini00/quem-e-o-impostor/actions) para o resultado remoto. Não houve publicação em lojas nem geração de APK/IPA nesta etapa.
 
 ## Licença
 

@@ -2,7 +2,7 @@
 
 Os 25 temas foram aprovados pelo usuário. O material inicial reúne **4.368 entradas** escolhidas individualmente, com **130 a 289 entradas por tema**. A meta aprovada continua sendo **1.000 entradas válidas e únicas em cada tema**, totalizando pelo menos 25.000. Faltam **20.632 entradas** para essa meta. As contagens por tema estão no [relatório automatizado](word-report.md).
 
-**Esta etapa não atende o critério de quantidade e não pode ser declarada concluída.** O comando normal de validação e o build de produção devem falhar até a complementação dos bancos ou uma alteração expressa do requisito pelo usuário. A implementação do aplicativo e as verificações de integridade podem avançar independentemente dessa decisão.
+**A expansão do conteúdo ainda não atende o critério de quantidade e permanece pendente.** Em 5 de setembro de 2026, o usuário autorizou expressamente a publicação da primeira edição web no Netlify com as 4.368 entradas atuais. Essa edição exige integridade dos bancos; a meta de 1.000 por tema continua exigida por `words:validate`, `build`, `check` e pela preparação de builds nativos.
 
 ## Origem e método
 
@@ -26,17 +26,15 @@ Os 25 temas foram aprovados pelo usuário. O material inicial reúne **4.368 ent
 
 Os relatórios `word-report.json` e `word-report.md` são regravados também quando a validação falha. O código de saída do comando normal é 1 quando a meta ou a integridade não passam. Arquivo ausente, JSON malformado, tema removido e banco extra sem aprovação também geram falha.
 
-`node scripts/validate-words.mjs --integrity-only` verifica a estrutura durante o desenvolvimento. Ele **não altera a meta**, mantém `strictPassed: false` no relatório quando a quantidade é insuficiente e não deve substituir a validação obrigatória no build ou na integração contínua.
+`node scripts/validate-words.mjs --integrity-only` verifica a integridade durante o desenvolvimento e na publicação da primeira edição web autorizada. Ele **não altera a meta** e mantém `strictPassed: false` no relatório quando a quantidade é insuficiente. O comando `build:web` utiliza essa verificação antes de exportar e preparar os assets. Na integração contínua, falhas de integridade bloqueiam o fluxo, enquanto a verificação da meta de 1.000 é uma etapa informativa com `continue-on-error` explícito.
 
 O script não decide se dois termos diferentes são sinônimos, se um título tem nome local mais conhecido, se uma pessoa é reconhecida em certa faixa etária nem se toda pista é divertida. Essa revisão continua editorial. Palavras podem aparecer em mais de um tema; a regra aprovada exige unicidade dentro de cada tema. Por isso, o total somado não é uma contagem global de palavras distintas.
 
-## Opções para decisão do usuário
+## Edição web autorizada e expansão
 
-A aprovação de todos os temas não é uma autorização para reduzir a quantidade. Não foi aplicada nenhuma alteração silenciosa. Há três caminhos possíveis:
+A decisão confirmada pelo usuário é publicar a primeira edição web com o banco atual e conservar os 25 temas e a meta de 1.000 entradas por tema. A autorização permite o acesso pelo navegador do celular; não declara concluída a expansão nem altera a lista aprovada.
 
-1. **Manter os 25 temas e a meta de 1.000:** completar lotes editoriais, revisar cada inclusão e calibrar dificuldade com partidas reais. É possível ampliar subassuntos naturais, mas o usuário deve decidir qualquer ampliação relevante de escopo.
-2. **Manter os 25 temas com uma primeira edição menor:** aceitar expressamente a contagem atual ou definir uma nova meta por tema. Isso altera o critério de aceite e exige nova decisão do usuário antes de mudar o gate de produção.
-3. **Reorganizar temas estreitos:** por exemplo, unir bebidas a alimentação; unir festas a cultura e lazer; ou ampliar transportes para mobilidade, lugares e viagem. Isso muda a lista aprovada e depende de autorização antes de editar o catálogo.
+A expansão deve ocorrer em lotes editoriais, com revisão de cada inclusão e calibração de dificuldade em partidas reais. Subassuntos naturais podem ampliar os bancos, mas reorganizar ou substituir temas exige uma nova decisão do usuário.
 
 Os temas com menor cobertura atual são **Comidas e pratos (130)**, **Bebidas (130)** e **Objetos do cotidiano (140)**. Música (236) e Ações e verbos (289) têm maior cobertura nesta edição, mas também estão abaixo da meta. Não há evidência editorial suficiente nesta versão para prometer que acrescentar mais nomes manterá a mesma familiaridade e utilidade.
 

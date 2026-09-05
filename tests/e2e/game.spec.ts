@@ -2,6 +2,9 @@ import { mkdir } from 'node:fs/promises';
 import { expect, test, type Page } from '@playwright/test';
 
 const names = ['Lia', 'Caio', 'Bia'];
+const screenshotDirectory = process.env.E2E_BASE_URL
+  ? 'test-results/deployed-screenshots'
+  : 'docs/screenshots';
 
 async function openHome(page: Page) {
   await page.goto('/');
@@ -72,9 +75,9 @@ test('fluxo completo: cadastro, ordem, temas, segredo individual, votação e no
 }) => {
   const consoleMessages: string[] = [];
   page.on('console', (message) => consoleMessages.push(message.text()));
-  await mkdir('docs/screenshots', { recursive: true });
+  await mkdir(screenshotDirectory, { recursive: true });
   await openHome(page);
-  await page.screenshot({ path: 'docs/screenshots/home.png', animations: 'disabled' });
+  await page.screenshot({ path: `${screenshotDirectory}/home.png`, animations: 'disabled' });
   await registerPlayers(page);
   await page.getByRole('button', { name: 'Mover Lia para baixo' }).click();
   await expect(page.getByLabel('Ordem de Lia: 2 de 3')).toBeVisible();
@@ -99,7 +102,7 @@ test('fluxo completo: cadastro, ordem, temas, segredo individual, votação e no
   await page.getByRole('checkbox', { name: /^Séries e programas de TV,/ }).click();
   await page.getByRole('button', { name: 'Limpar busca' }).click();
   await expect(page.getByText(/2 temas selecionados/)).toBeVisible();
-  await page.screenshot({ path: 'docs/screenshots/themes.png', animations: 'disabled' });
+  await page.screenshot({ path: `${screenshotDirectory}/themes.png`, animations: 'disabled' });
   await page.getByRole('button', { name: 'Revisar partida' }).click();
   await expect(page.getByRole('heading', { name: 'Tudo pronto?' })).toBeVisible();
   await page.getByRole('button', { name: 'Iniciar partida' }).click();
@@ -146,7 +149,7 @@ test('fluxo completo: cadastro, ordem, temas, segredo individual, votação e no
   await expect(page.getByRole('heading', { name: 'Fim do disfarce.' })).toBeVisible();
   await expect(page.getByText(words[0], { exact: true })).toBeVisible();
   await expect(page.getByText('O grupo acertou!', { exact: true })).toBeVisible();
-  await page.screenshot({ path: 'docs/screenshots/result.png', animations: 'disabled' });
+  await page.screenshot({ path: `${screenshotDirectory}/result.png`, animations: 'disabled' });
   await page.getByRole('button', { name: 'Jogar novamente', exact: true }).click();
   await expect(page.getByRole('button', { name: 'Sou Lia' })).toBeVisible();
   await expect(page.getByTestId('secret-content')).toHaveCount(0);

@@ -103,7 +103,7 @@ if (flags.some((flag) => !allowedFlags.has(flag))) {
     '',
     report.strictPassed
       ? 'Todos os critérios automáticos de conteúdo foram atendidos; a revisão editorial permanece necessária para novas inclusões.'
-      : 'O build de produção deve continuar bloqueado enquanto algum tema estiver abaixo da meta ou houver erro de integridade. Não há autorização registrada para reduzir o mínimo.',
+      : 'A meta de 1.000 entradas por tema permanece pendente. A publicação web do banco inicial foi autorizada pelo usuário e exige integridade aprovada; o build completo e a validação estrita continuam exigindo a meta original.',
     '',
   ].join('\n');
   await mkdir(new URL('docs/', root), { recursive: true });

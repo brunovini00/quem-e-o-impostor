@@ -23,6 +23,7 @@
     "words:integrity": "node scripts/validate-words.mjs --integrity-only",
     "export:check": "expo export --platform all",
     "build": "pnpm words:validate && expo export --platform all",
+    "build:web": "pnpm words:integrity && expo export --platform web && node scripts/prepare-netlify.mjs",
     "check": "pnpm typecheck && pnpm lint && pnpm format:check && pnpm test && pnpm test:ui && pnpm words:validate",
     "assets:generate": "node scripts/generate-assets.mjs",
     "eas-build-post-install": "pnpm words:validate"
