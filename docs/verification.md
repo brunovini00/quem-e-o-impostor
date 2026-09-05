@@ -11,7 +11,7 @@ Ambiente: Windows, Node 22.14.0, pnpm 11.19.0, Expo 57.0.20, React Native 0.86.3
 | `pnpm format:check`                     | Passou, saída 0                                                                         |
 | `pnpm test`                             | 83 testes, 7 arquivos, saída 0                                                          |
 | `pnpm test:ui`                          | 36 testes, 4 arquivos, saída 0                                                          |
-| `pnpm test:e2e`                         | 4 testes, Chrome 390×844 e 320×740, saída 0                                             |
+| `pnpm test:e2e`                         | 6 testes, Chrome 390×844 e 320×740, incluindo toque prolongado via CDP, saída 0         |
 | `pnpm words:integrity`                  | Passou, 25 temas, 4.368 entradas válidas, zero inválidas/duplicadas dentro de cada tema |
 | `pnpm words:validate`                   | **Falhou**, saída 1: todos os temas abaixo de 1.000                                     |
 | `pnpm build`                            | **Bloqueado na validação obrigatória do conteúdo**                                      |
@@ -49,6 +49,16 @@ O Playwright agora aceita `E2E_BASE_URL` para executar a mesma suíte contra uma
 O usuário confirmou expressamente publicar no Netlify com as 4.368 entradas atuais nos 25 temas. `build:web` executa `words:integrity`, a exportação web e `prepare-netlify`. A meta de 1.000 por tema permanece pendente, com déficit de 20.632, e continua bloqueando `words:validate`, `build`, `check` e a preparação de builds nativos.
 
 ## Cobertura funcional
+
+### Gesto de revelação no navegador
+
+O botão de segurar e os controles compartilhados agora desativam seleção, arraste de texto e menus de contexto somente nos seus elementos. A regra `-webkit-touch-callout: none` cobre o callout do Safari iOS; os textos e ícones dos botões também são não selecionáveis. Campos de nomes continuam editáveis e selecionáveis, e a página preserva seus gestos de rolagem e zoom.
+
+O controle dá feedback imediato com “Continue segurando…” e muda para “Solte para esconder” durante a revelação. A área de toque foi ampliada e ganha um contorno ao pressionar. O limiar de 450 ms, a ocultação ao soltar/cancelar e a alternativa com confirmação foram preservados.
+
+Validação local da correção: TypeScript, ESLint, Prettier, build web, 36 testes de componentes/hooks e 6 testes de ponta a ponta passaram. Os dois novos testes cobrem ausência de seleção, prevenção dos menus/arraste, confirmação por Enter/Espaço, toque prolongado real via CDP, soltura e cancelamento antes/depois da revelação. Um smoke adicional no WebKit 26.5 com viewport de iPhone 13 passou; esse port no Windows não implementa `-webkit-touch-callout`, portanto não substitui a verificação do menu nativo em um iPhone físico.
+
+### Regras e fluxo da partida
 
 - Sorteio seguro por rejeição, distribuição grosseira, Fisher–Yates, palavra comum a não impostores e exatamente um impostor.
 - Jogadores mínimos/máximos, limites de nome, duplicatas normalizadas, edição, remoção e reordenação.

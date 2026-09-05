@@ -5,6 +5,7 @@ import type { GameAction, GameState, Settings, Theme } from '../domain/types';
 import { useCountdown } from '../hooks/useCountdown';
 import { Button, Card, Icon, Label, Page, usePalette } from '../ui/components';
 import { Confirmation } from '../components/Confirmation';
+import { useNonSelectablePressRef } from '../ui/useNonSelectablePressRef';
 
 interface Props {
   game: GameState;
@@ -24,6 +25,7 @@ interface Props {
 export function RoundScreen(props: Props) {
   const { game, settings, dispatch, onExit, onResult, onFeedback } = props;
   const p = usePalette();
+  const holdButtonRef = useNonSelectablePressRef();
   const player = game.round.players[game.cursor]!;
   const timer = useCountdown(
     settings.timerSeconds,
@@ -286,6 +288,7 @@ export function RoundScreen(props: Props) {
             )}
           </View>
           <Pressable
+            ref={holdButtonRef}
             accessibilityRole="button"
             accessibilityLabel="Segure para revelar seu papel"
             accessibilityHint="Mantenha pressionado por meio segundo. Há também uma alternativa com confirmação abaixo."
@@ -298,13 +301,34 @@ export function RoundScreen(props: Props) {
             onResponderTerminate={() => send('CONCEAL')}
             style={({ pressed }) => [
               styles.hold,
-              { backgroundColor: p.accent, opacity: pressed ? 0.8 : 1 },
+              {
+                backgroundColor: p.accent,
+                borderColor: pressed || secret ? p.accentText : 'transparent',
+                opacity: pressed ? 0.94 : 1,
+              },
             ]}
           >
-            <Icon name="finger-print-outline" color={p.accentText} size={25} />
-            <Text style={{ color: p.accentText, fontWeight: '800', fontSize: 16 }}>
-              {secret ? 'Solte para esconder' : 'Segure para revelar'}
-            </Text>
+            {({ pressed }) => (
+              <View pointerEvents="none" style={styles.holdContent}>
+                <Icon
+                  name={secret ? 'eye-off-outline' : 'finger-print-outline'}
+                  color={p.accentText}
+                  size={28}
+                />
+                <View style={{ flexShrink: 1, gap: 3 }}>
+                  <Text selectable={false} style={[styles.holdLabel, { color: p.accentText }]}>
+                    {secret
+                      ? 'Solte para esconder'
+                      : pressed
+                        ? 'Continue segurando…'
+                        : 'Segure para revelar'}
+                  </Text>
+                  <Text selectable={false} style={[styles.holdHint, { color: p.accentText }]}>
+                    {secret ? 'Seu papel está visível' : 'Soltou, escondeu'}
+                  </Text>
+                </View>
+              </View>
+            )}
           </Pressable>
           {game.revealedForCurrent ? (
             <Button
@@ -424,14 +448,21 @@ const styles = StyleSheet.create({
     letterSpacing: -0.8,
   },
   hold: {
-    minHeight: 64,
+    minHeight: 78,
     padding: 16,
     borderRadius: 18,
+    borderWidth: 2,
     alignItems: 'center',
     justifyContent: 'center',
+  },
+  holdContent: {
     gap: 10,
     flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'center',
   },
+  holdLabel: { fontWeight: '800', fontSize: 16, textAlign: 'center', userSelect: 'none' },
+  holdHint: { fontSize: 12, textAlign: 'center', userSelect: 'none' },
   progressTrack: { height: 5, borderRadius: 4, marginBottom: 8 },
   clock: { fontSize: 64, fontWeight: '800', fontVariant: ['tabular-nums'], letterSpacing: -3 },
   tip: { flexDirection: 'row', gap: 12, alignItems: 'flex-start' },

@@ -21,7 +21,7 @@
 - TypeScript, ESLint e Prettier: passaram.
 - Vitest: 83 testes em 7 arquivos passaram.
 - Jest/React Native Testing Library: 36 testes passaram.
-- Playwright/Chrome: 4 testes de ponta a ponta passaram.
+- Playwright/Chrome: 6 testes de ponta a ponta passaram, incluindo seleção e cancelamento do gesto de revelar.
 - Exportação de produção Metro/Hermes: Android, iOS e web passaram.
 - `pnpm build:web`: passou com validação de integridade, exportação web e preparação de uma fonte de ícones para o Netlify.
 - Integridade dos bancos: 25 temas, 4.368 entradas, zero inválidas/duplicadas dentro de cada tema.

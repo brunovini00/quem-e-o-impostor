@@ -14,13 +14,22 @@ import {
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { tokens, usePalette, useReducedMotion } from './theme';
+import { useNonSelectablePressRef } from './useNonSelectablePressRef';
 export { usePalette } from './theme';
 
 export function Icon({ name, size = 22, color }: { name: string; size?: number; color?: string }) {
   const p = usePalette();
   const safeName =
     name in Ionicons.glyphMap ? (name as keyof typeof Ionicons.glyphMap) : 'ellipse-outline';
-  return <Ionicons name={safeName} size={size} color={color ?? p.text} accessible={false} />;
+  return (
+    <Ionicons
+      name={safeName}
+      size={size}
+      color={color ?? p.text}
+      accessible={false}
+      selectable={false}
+    />
+  );
 }
 export function Button({
   label,
@@ -36,6 +45,7 @@ export function Button({
   icon?: string;
 }) {
   const p = usePalette();
+  const pressRef = useNonSelectablePressRef();
   const bg =
     variant === 'primary'
       ? p.accent
@@ -47,6 +57,7 @@ export function Button({
   const fg = variant === 'primary' ? p.accentText : variant === 'danger' ? p.bg : p.text;
   return (
     <Pressable
+      ref={pressRef}
       accessibilityRole="button"
       accessibilityLabel={label}
       accessibilityState={{ disabled }}
@@ -58,7 +69,9 @@ export function Button({
       ]}
     >
       {icon ? <Icon name={icon} color={fg} /> : null}
-      <Text style={[styles.buttonText, { color: fg }]}>{label}</Text>
+      <Text selectable={false} style={[styles.buttonText, { color: fg }]}>
+        {label}
+      </Text>
     </Pressable>
   );
 }

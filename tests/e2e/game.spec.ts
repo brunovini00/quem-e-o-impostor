@@ -269,3 +269,107 @@ test('preserva rascunhos ao voltar/recarregar e Escape fecha apenas a confirmaç
   await expect(page.getByRole('heading', { name: 'Sair desta rodada?' })).toHaveCount(0);
   await expect(page.getByRole('button', { name: 'Segure para revelar seu papel' })).toBeVisible();
 });
+
+test('controles não selecionam texto; a confirmação continua acessível pelo teclado', async ({
+  page,
+}) => {
+  await openHome(page);
+  await prepareRound(page);
+  await page.getByRole('button', { name: 'Sou Lia' }).click();
+  const hold = page.getByRole('button', { name: 'Segure para revelar seu papel' });
+  await hold.scrollIntoViewIfNeeded();
+  const label = hold.getByText('Segure para revelar', { exact: true });
+  const box = await label.boundingBox();
+  if (!box) throw new Error('Rótulo do botão indisponível.');
+  await page.mouse.dblclick(box.x + box.width / 2, box.y + box.height / 2);
+  expect(await page.evaluate(() => window.getSelection()?.toString() ?? '')).toBe('');
+  await expect(page.getByTestId('secret-content')).toHaveCount(0);
+  expect(
+    await hold.evaluate((element) =>
+      ['contextmenu', 'selectstart', 'dragstart'].every(
+        (type) => !element.dispatchEvent(new Event(type, { bubbles: true, cancelable: true })),
+      ),
+    ),
+  ).toBe(true);
+
+  await page.getByRole('button', { name: 'Revelar com confirmação' }).focus();
+  await page.keyboard.press('Enter');
+  await expect(page.getByRole('heading', { name: 'Pronto para olhar?' })).toBeVisible();
+  await page.getByRole('button', { name: 'Mostrar meu papel' }).focus();
+  await page.keyboard.press('Space');
+  await expect(page.getByTestId('secret-content')).toBeVisible();
+  await page.getByRole('button', { name: 'Já memorizei · esconder e continuar' }).click();
+  await expect(page.getByTestId('secret-content')).toHaveCount(0);
+  await expect(page.getByRole('heading', { name: 'Segredo guardado.' })).toBeVisible();
+});
+
+test('celular: segurar sobre as letras não seleciona; soltar e cancelar escondem', async ({
+  browser,
+  baseURL,
+}) => {
+  const context = await browser.newContext({
+    baseURL,
+    viewport: { width: 390, height: 844 },
+    isMobile: true,
+    hasTouch: true,
+    locale: 'pt-BR',
+  });
+  try {
+    const page = await context.newPage();
+    const cdp = await context.newCDPSession(page);
+    await openHome(page);
+    await page.getByRole('button', { name: 'Jogar', exact: true }).tap();
+    const input = page.getByRole('textbox', { name: 'Nome do jogador 1' });
+    await input.fill('Lia');
+    await input.selectText();
+    expect(
+      await input.evaluate((element: HTMLInputElement) => [
+        element.selectionStart,
+        element.selectionEnd,
+      ]),
+    ).toEqual([0, 3]);
+    await page.getByRole('button', { name: 'Voltar', exact: true }).tap();
+    await prepareRound(page);
+    await page.getByRole('button', { name: 'Sou Lia' }).tap();
+    const hold = page.getByRole('button', { name: 'Segure para revelar seu papel' });
+    const touchStart = async () => {
+      await hold.scrollIntoViewIfNeeded();
+      const box = await hold.getByText('Segure para revelar', { exact: true }).boundingBox();
+      if (!box) throw new Error('Rótulo do botão indisponível.');
+      await cdp.send('Input.dispatchTouchEvent', {
+        type: 'touchStart',
+        touchPoints: [{ x: box.x + box.width / 2, y: box.y + box.height / 2, id: 1 }],
+      });
+    };
+    const touchEnd = (type: 'touchEnd' | 'touchCancel') =>
+      cdp.send('Input.dispatchTouchEvent', { type, touchPoints: [] });
+
+    await touchStart();
+    await expect(hold.getByText('Continue segurando…')).toBeVisible();
+    await touchEnd('touchCancel');
+    // Wait beyond the reveal threshold to catch a timer left running after cancellation.
+    await page.waitForTimeout(600);
+    await expect(page.getByTestId('secret-content')).toHaveCount(0);
+
+    await touchStart();
+    await expect(page.getByTestId('secret-content')).toBeVisible();
+    await expect(hold.getByText('Solte para esconder')).toBeVisible();
+    // Keep holding past the browser's normal long-press selection threshold.
+    await page.waitForTimeout(800);
+    expect(await page.evaluate(() => window.getSelection()?.toString() ?? '')).toBe('');
+    await touchEnd('touchEnd');
+    await expect(page.getByTestId('secret-content')).toHaveCount(0);
+
+    await touchStart();
+    await expect(page.getByTestId('secret-content')).toBeVisible();
+    await touchEnd('touchCancel');
+    await expect(page.getByTestId('secret-content')).toHaveCount(0);
+    await hold.getByText('Segure para revelar', { exact: true }).waitFor();
+    await page.getByRole('button', { name: 'Já memorizei · esconder e continuar' }).tap();
+    await page.getByRole('button', { name: 'Próxima pessoa' }).tap();
+    await expect(page.getByRole('button', { name: 'Sou Caio' })).toBeVisible();
+    await expect(page.getByTestId('secret-content')).toHaveCount(0);
+  } finally {
+    await context.close();
+  }
+});
