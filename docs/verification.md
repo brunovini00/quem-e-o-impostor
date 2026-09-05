@@ -58,6 +58,8 @@ O controle dá feedback imediato com “Continue segurando…” e muda para “
 
 Validação local da correção: TypeScript, ESLint, Prettier, build web, 36 testes de componentes/hooks e 6 testes de ponta a ponta passaram. Os dois novos testes cobrem ausência de seleção, prevenção dos menus/arraste, confirmação por Enter/Espaço, toque prolongado real via CDP, soltura e cancelamento antes/depois da revelação. Um smoke adicional no WebKit 26.5 com viewport de iPhone 13 passou; esse port no Windows não implementa `-webkit-touch-callout`, portanto não substitui a verificação do menu nativo em um iPhone físico.
 
+A correção foi publicada em produção às **18:54 BRT de 5 de setembro de 2026**, no [deploy 6a9c8f949a7acf00088f7818](https://app.netlify.com/projects/quem-e-o-impostor/deploys/6a9c8f949a7acf00088f7818), commit `e0edb7e1d89a564f924cfd0c817797dfdb194fe1`. Os **6 testes Chrome passaram pela URL pública em 17,8 segundos**, assim como o smoke WebKit. As capturas da tela pronta para revelar foram revisadas em 390×844 e 320×740: botão e textos sem cortes, sem overflow horizontal e controles alcançáveis por rolagem. O endereço permanece [quem-e-o-impostor.netlify.app](https://quem-e-o-impostor.netlify.app/).
+
 ### Regras e fluxo da partida
 
 - Sorteio seguro por rejeição, distribuição grosseira, Fisher–Yates, palavra comum a não impostores e exatamente um impostor.
