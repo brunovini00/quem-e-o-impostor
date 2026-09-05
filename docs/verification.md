@@ -28,9 +28,17 @@ Os resultados desta tabela foram obtidos localmente. O usuário autorizou em 5 d
 
 No ambiente, a verificação `expo install --check` precisou do modo offline: as versões coincidem com `bundledNativeModules.json` do Expo instalado. Isso verifica compatibilidade com o SDK instalado, sem consulta a atualizações do registro. Os comandos também foram executados diretamente por `node node_modules/...` durante a instalação das dependências; as verificações finais utilizaram os scripts do projeto.
 
-## Preparação do Netlify
+## Publicação no Netlify
 
-O painel autenticado confirmou o repositório `brunovini00/quem-e-o-impostor`, a branch de produção `main` e os dois deploys interrompidos pela validação do conteúdo. Ainda não há uma publicação bem-sucedida.
+Publicação de produção concluída em **5 de setembro de 2026, às 18:28 BRT**, com estado `ready`, sem erro:
+
+- Site: [quem-e-o-impostor.netlify.app](https://quem-e-o-impostor.netlify.app/).
+- Deploy: [6a9c89751b06ac000806981a](https://app.netlify.com/projects/quem-e-o-impostor/deploys/6a9c89751b06ac000806981a).
+- Commit publicado: `962c0b9669169e7a0cd2b923c88e354947b48015`, branch `main`, repositório `brunovini00/quem-e-o-impostor`.
+
+Os quatro testes Playwright passaram contra o site HTTPS publicado, em 11 segundos: partida completa, proteção da revelação, telas de 320 px, temas claro/escuro e persistência. A primeira tentativa de acesso remoto foi bloqueada pelo sandbox (`ERR_NETWORK_ACCESS_DENIED`); os testes foram executados com acesso à rede autorizado. O teste de 320 px identificou o iframe do selo “Powered by Netlify” interceptando o botão “Organizar a ordem”. O selo foi desativado pelo controle oficial do painel e a suíte inteira passou novamente, sem alterar os testes ou forçar cliques.
+
+Um smoke independente com Pixel 7 emulado confirmou contexto HTTPS seguro, controles por toque prolongado, ocultação ao soltar e passagem à próxima pessoa, sem erros JavaScript ou requisições falhas. A fonte de ícones corrigida respondeu HTTP 200 (`font/ttf`, 389.724 bytes), com ícones visíveis e sem overflow horizontal. Nenhum APK/IPA ou teste em aparelho físico foi incluído nessa publicação web.
 
 A configuração local `netlify.toml` usa Node 22, `pnpm run build:web` e `dist`. A exportação web isolada passou. O pós-processamento de assets remove das referências públicas os diretórios ocultos de dependências que o Netlify ignora. A fonte de ícones foi copiada sem alteração dos bytes e respondeu HTTP 200 no servidor local. Os seis testes novos desse pós-processamento passaram, assim como lint e TypeScript. Os 23 testes do validador de palavras também passaram.
 
@@ -38,7 +46,7 @@ Após a autorização da primeira edição web, o comando completo `pnpm build:w
 
 O Playwright agora aceita `E2E_BASE_URL` para executar a mesma suíte contra uma publicação HTTPS, mantendo as capturas remotas fora da documentação versionada. Uma verificação adicional com emulação Pixel 7 e eventos de toque confirmou segurar/soltar para revelar/ocultar e continuar a rodada depois de desconectar a rede da página já carregada. Isso não comprova recarregamento offline nem uso em aparelhos físicos.
 
-O usuário confirmou expressamente publicar no Netlify com as 4.368 entradas atuais nos 25 temas. `build:web` passa a executar `words:integrity`, a exportação web e `prepare-netlify`. A meta de 1.000 por tema permanece pendente, com déficit de 20.632, e continua bloqueando `words:validate`, `build`, `check` e a preparação de builds nativos. A autorização da edição web não equivale a comprovação de deploy: a URL HTTPS e os resultados da verificação remota ainda precisam ser registrados após a publicação.
+O usuário confirmou expressamente publicar no Netlify com as 4.368 entradas atuais nos 25 temas. `build:web` executa `words:integrity`, a exportação web e `prepare-netlify`. A meta de 1.000 por tema permanece pendente, com déficit de 20.632, e continua bloqueando `words:validate`, `build`, `check` e a preparação de builds nativos.
 
 ## Cobertura funcional
 

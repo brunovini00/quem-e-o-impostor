@@ -2,6 +2,8 @@
 
 Um celular, uma palavra secreta e alguém tentando disfarçar. Jogo presencial em português do Brasil, para **3 a 20 pessoas**, feito com React Native, Expo SDK 57 e TypeScript estrito.
 
+**[Jogar pelo navegador do celular](https://quem-e-o-impostor.netlify.app/)**
+
 <img src="assets/brand.svg" width="88" alt="Marca Impostor: dois olhos atentos" />
 
 <img src="docs/screenshots/home.png" width="250" alt="Tela inicial do Impostor" /> <img src="docs/screenshots/themes.png" width="250" alt="Seleção múltipla de temas" /> <img src="docs/screenshots/result.png" width="250" alt="Resultado de uma partida de teste" />
@@ -141,7 +143,9 @@ O arquivo `netlify.toml` define Node 22, `pnpm run build:web` e a pasta de publi
 
 Após exportar, `scripts/prepare-netlify.mjs` copia assets localizados em diretórios ocultos, como a fonte de ícones dentro de `.pnpm`, para caminhos públicos estáveis e atualiza suas referências. Isso evita que o filtro de arquivos do Netlify omita os ícones.
 
-Em 5 de setembro de 2026, o usuário confirmou expressamente a publicação desta edição web com 4.368 entradas nos 25 temas para acesso pelo celular. A meta original de 25.000 entradas permanece pendente, com déficit de 20.632. O relatório mantém `strictPassed: false`; a autorização da edição web não declara a meta atendida nem libera builds nativos abaixo dela. O resultado do deploy e da verificação pela URL HTTPS deve ser registrado em [docs/verification.md](docs/verification.md).
+Em 5 de setembro de 2026, o usuário confirmou expressamente a publicação desta edição web com 4.368 entradas nos 25 temas para acesso pelo celular. A meta original de 25.000 entradas permanece pendente, com déficit de 20.632. O relatório mantém `strictPassed: false`; a autorização da edição web não declara a meta atendida nem libera builds nativos abaixo dela. O deploy foi concluído e os quatro testes de ponta a ponta passaram pela URL HTTPS; as evidências estão em [docs/verification.md](docs/verification.md).
+
+O selo flutuante “Powered by Netlify” está desativado nas configurações gerais do projeto no Netlify, pois interceptava toques sobre um botão em telas de 320 px.
 
 Referências: [exportação web do Expo](https://docs.expo.dev/guides/publishing-websites/) e [configuração por arquivo do Netlify](https://docs.netlify.com/build/configure-builds/file-based-configuration/).
 

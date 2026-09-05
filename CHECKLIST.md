@@ -13,7 +13,7 @@
 - [x] Documentação de uso, CI e limitações.
 - [x] Configuração web para Netlify e correção dos caminhos públicos dos ícones.
 - [x] Autorização expressa para publicar a primeira edição web com 4.368 entradas.
-- [ ] Publicação web bem-sucedida e verificação pela URL HTTPS.
+- [x] Publicação web bem-sucedida e quatro testes de ponta a ponta pela URL HTTPS.
 - [ ] Aprovação de privacidade e execução offline em aparelhos Android/iOS.
 
 ## Verificações executadas
